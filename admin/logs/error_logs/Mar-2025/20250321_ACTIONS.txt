@@ -1,0 +1,312 @@
+[1][2025/03/21 09:39:24][::1][pages][index][Pages]
+[1][2025/03/21 09:39:28][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 09:39:39][::1][pages][index][Pages]
+[1][2025/03/21 09:39:42][::1][pages][editPage12][Edit Pages]
+[1][2025/03/21 09:39:49][::1][pages][index][Pages]
+[1][2025/03/21 09:39:51][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 09:40:06][::1][pages][editPage10~about~section1~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="http://localhost/GouthamSchool/index">Home</a> <i class="far fa-circle"></i> About Us</p>
+                    <h2>About Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+            <div class="row ">
+                
+                <div class="col-lg-7">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec">About GMS</h2>
+                    </div>
+                    <div>
+                        <p style="color: #a13984;"><b>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General & Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</b></p>
+
+                        <p class="pt-3">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</p>
+                        
+                        
+                    </div>
+                </div>
+                <div class="col-lg-5"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about_img_4866609541.jpg"><br></div>
+            </div>
+
+
+            <div class="row gap mb-0 pb-0">
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5" style="border-radius: 100px;">
+                        <div>
+                            <h3>Vision</h3>
+                            <p>"Our vision is to create a world where every individual, regardless of their socio-economic background, has equal access to high-quality education. We strive to make education affordable for all, by providing innovative, sustainable, and inclusive learning environments that foster growth, creativity, and success. Our mission is to empower students to reach their full potential and become active, informed, and responsible citizens who contribute to a better future for all."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_951535011.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5 mb-xl-0" style="border-radius: 100px;">
+                        <div>
+                            <h3>Mission</h3>
+                            <p>Our mission is to provide affordable and accessible education that empowers all students to achieve their goals and realize their full potential. We are committed to creating a supportive and inclusive learning environment that fosters intellectual curiosity, critical thinking, and creativity. Through our innovative programs, experienced faculty, and modern facilities, we aim to equip our students with the knowledge, skills, and values they need to succeed in a rapidly changing world. We believe that education is a fundamental human right, and we strive to make it accessible to everyone, regardless of their financial means."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_1507804091.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~ <section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-9">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec pb-0 w-100">Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA</h2>
+                    </div>
+                    <div>
+                        <p>Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA to participate in the discussion on "Innovation, Cross Border Collaboration and Entrepreneurship" at the Trident Nariman Point Hotel, Mumbai on November 6 , 2010. That was presided over by the President of United States of America, Mr. Barack Obama.</p>
+                    </div>
+                </div>
+                <div class="col-md-3"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/chairmanusa_7284496620.png"><br></div>
+                
+            </div>
+        </div>
+    </section>~~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/21 09:40:06][::1][pages][index][Pages]
+[1][2025/03/21 09:40:09][::1][pages][editPage13][Edit Pages]
+[1][2025/03/21 09:40:20][::1][pages][index][Pages]
+[1][2025/03/21 09:40:23][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 09:40:32][::1][pages][editPage10~about~section1~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="http://localhost/GouthamSchool/index">Home</a> <i class="far fa-circle"></i> About Us</p>
+                    <h2>About Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+            <div class="row ">
+                
+                <div class="col-lg-7">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec">About GMS</h2>
+                    </div>
+                    <div>
+                        <p style="color: #a13984;"><b>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General & Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</b></p>
+
+                        <p class="pt-3">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</p>
+                        
+                        
+                    </div>
+                </div>
+                <div class="col-lg-5"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about_img_4866609541.jpg"><br></div>
+            </div>
+
+
+            <div class="row gap mb-0 pb-0">
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5" style="border-radius: 100px;">
+                        <div>
+                            <h3>Vision</h3>
+                            <p>"Our vision is to create a world where every individual, regardless of their socio-economic background, has equal access to high-quality education. We strive to make education affordable for all, by providing innovative, sustainable, and inclusive learning environments that foster growth, creativity, and success. Our mission is to empower students to reach their full potential and become active, informed, and responsible citizens who contribute to a better future for all."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_951535011.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5 mb-xl-0" style="border-radius: 100px;">
+                        <div>
+                            <h3>Mission</h3>
+                            <p>Our mission is to provide affordable and accessible education that empowers all students to achieve their goals and realize their full potential. We are committed to creating a supportive and inclusive learning environment that fosters intellectual curiosity, critical thinking, and creativity. Through our innovative programs, experienced faculty, and modern facilities, we aim to equip our students with the knowledge, skills, and values they need to succeed in a rapidly changing world. We believe that education is a fundamental human right, and we strive to make it accessible to everyone, regardless of their financial means."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_1507804091.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~ <section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-9">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec pb-0 w-100">Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA</h2>
+                    </div>
+                    <div>
+                        <p>Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA to participate in the discussion on "Innovation, Cross Border Collaboration and Entrepreneurship" at the Trident Nariman Point Hotel, Mumbai on November 6 , 2010. That was presided over by the President of United States of America, Mr. Barack Obama.</p>
+                    </div>
+                </div>
+                <div class="col-md-3"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/chairmanusa_7284496620.png"><br></div>
+                
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="trainers_training d-lg-flex align-items-center" style="background-image: url(http://localhost/GouthamSchool/uploads/pages/trainers_training.png);"> <img src="http://localhost/GouthamSchool/uploads/pages/chairmanimg_6503590912.png">
+                <div class="text-sec">
+                    <h2>Chairman Message</h2>
+                    <p><i>My vision is to provide Quality Education at an affordable price. My vision has turned into the core policy of the Institution’s business model. It offers great value for money by providing constantly updated curriculum and also supplement its classroom teaching with technology aided tutelage.</i></p>
+                    
+                    <h5>Sri M. Venkatanarayana</h5>
+                    <p class="m-0 p-0"><i>Founder &amp; Chairman</i></p>
+                </div>
+            </div>
+        </div>
+    </section>~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/21 09:40:32][::1][pages][index][Pages]
+[1][2025/03/21 09:41:58][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 09:42:04][::1][pages][editPage10~about~about~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="http://localhost/GouthamSchool/index">Home</a> <i class="far fa-circle"></i> About Us</p>
+                    <h2>About Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+            <div class="row ">
+                
+                <div class="col-lg-7">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec">About GMS</h2>
+                    </div>
+                    <div>
+                        <p style="color: #a13984;"><b>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General & Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</b></p>
+
+                        <p class="pt-3">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</p>
+                        
+                        
+                    </div>
+                </div>
+                <div class="col-lg-5"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about_img_4866609541.jpg"><br></div>
+            </div>
+
+
+            <div class="row gap mb-0 pb-0">
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5" style="border-radius: 100px;">
+                        <div>
+                            <h3>Vision</h3>
+                            <p>"Our vision is to create a world where every individual, regardless of their socio-economic background, has equal access to high-quality education. We strive to make education affordable for all, by providing innovative, sustainable, and inclusive learning environments that foster growth, creativity, and success. Our mission is to empower students to reach their full potential and become active, informed, and responsible citizens who contribute to a better future for all."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_951535011.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5 mb-xl-0" style="border-radius: 100px;">
+                        <div>
+                            <h3>Mission</h3>
+                            <p>Our mission is to provide affordable and accessible education that empowers all students to achieve their goals and realize their full potential. We are committed to creating a supportive and inclusive learning environment that fosters intellectual curiosity, critical thinking, and creativity. Through our innovative programs, experienced faculty, and modern facilities, we aim to equip our students with the knowledge, skills, and values they need to succeed in a rapidly changing world. We believe that education is a fundamental human right, and we strive to make it accessible to everyone, regardless of their financial means."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_1507804091.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~ <section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-9">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec pb-0 w-100">Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA</h2>
+                    </div>
+                    <div>
+                        <p>Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA to participate in the discussion on "Innovation, Cross Border Collaboration and Entrepreneurship" at the Trident Nariman Point Hotel, Mumbai on November 6 , 2010. That was presided over by the President of United States of America, Mr. Barack Obama.</p>
+                    </div>
+                </div>
+                <div class="col-md-3"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/chairmanusa_7284496620.png"><br></div>
+                
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="trainers_training d-lg-flex align-items-center" style="background-image: url(http://localhost/GouthamSchool/uploads/pages/trainers_training.png);"> <img src="http://localhost/GouthamSchool/uploads/pages/chairmanimg_6503590912.png">
+                <div class="text-sec">
+                    <h2>Chairman Message</h2>
+                    <p><i>My vision is to provide Quality Education at an affordable price. My vision has turned into the core policy of the Institution’s business model. It offers great value for money by providing constantly updated curriculum and also supplement its classroom teaching with technology aided tutelage.</i></p>
+                    
+                    <h5>Sri M. Venkatanarayana</h5>
+                    <p class="m-0 p-0"><i>Founder & Chairman</i></p>
+                </div>
+            </div>
+        </div>
+    </section>~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/21 09:42:04][::1][pages][index][Pages]
+[1][2025/03/21 09:42:10][::1][pages][deletePage12][Delete Pages]
+[1][2025/03/21 09:42:10][::1][pages][index][Pages]
+[1][2025/03/21 09:42:13][::1][pages][deletePage13][Delete Pages]
+[1][2025/03/21 09:42:13][::1][pages][index][Pages]
+[1][2025/03/21 09:54:55][::1][pages][index][Pages]
+[1][2025/03/21 09:54:59][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 09:55:12][::1][pages][index][Pages]
+[1][2025/03/21 09:56:19][::1][menus][ajaxSaveMenu[{"label":"Home","id":3},{"label":"About Us","id":1},{"label":"Contact","id":2}]][Menu Updted Successfully]
+[1][2025/03/21 10:02:02][::1][enquiries][index][Enquiries]
+[1][2025/03/21 10:26:55][::1][pages][index][Pages]
+[1][2025/03/21 10:27:00][::1][pages][index][Pages]
+[1][2025/03/21 10:33:47][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 10:34:24][::1][pages][index][Pages]
+[1][2025/03/21 13:38:49][::1][pages][index][Pages]
+[1][2025/03/21 13:40:26][::1][pages][index][Pages]
+[1][2025/03/21 13:40:35][::1][pages][index][Pages]
+[1][2025/03/21 13:40:37][::1][pages][addPage][Add Pages]
+[1][2025/03/21 13:40:53][::1][pages][addPage][Add Pages]
+[1][2025/03/21 13:40:55][::1][pages][addPage][Add Pages]
+[1][2025/03/21 13:40:56][::1][pages][addPage][Add Pages]
+[1][2025/03/21 13:40:57][::1][pages][addPage][Add Pages]
+[1][2025/03/21 13:41:52][::1][pages][index][Pages]
+[1][2025/03/21 13:41:54][::1][pages][index][Pages]
+[1][2025/03/21 13:41:55][::1][pages][addPage][Add Pages]
+[1][2025/03/21 13:45:40][::1][pages][createPageAbout~0~slide-3_5124312652.jpg][Add Pages]
+[1][2025/03/21 13:45:41][::1][pages][index][Pages]
+[1][2025/03/21 13:45:43][::1][pages][editPage][Edit Pages]
+[1][2025/03/21 13:45:46][::1][pages][index][Pages]
+[1][2025/03/21 13:55:45][::1][pages][index][Pages]
+[1][2025/03/21 13:55:48][::1][pages][index][Pages]
+[1][2025/03/21 13:55:50][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:28:17][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:29:29][::1][pages][index][Pages]
+[1][2025/03/21 15:29:31][::1][pages][index][Pages]
+[1][2025/03/21 15:29:36][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:32:10][::1][pages][index][Pages]
+[1][2025/03/21 15:34:47][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:41:28][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:41:34][::1][pages][index][Pages]
+[1][2025/03/21 15:41:35][::1][pages][index][Pages]
+[1][2025/03/21 15:41:37][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:43:35][::1][pages][index][Pages]
+[1][2025/03/21 15:43:36][::1][pages][index][Pages]
+[1][2025/03/21 15:43:38][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:45:12][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:49:28][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:50:52][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:53:08][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:55:08][::1][pages][editPage10][Edit Pages]
+[1][2025/03/21 15:57:39][::1][pages][editPage10][Edit Pages]

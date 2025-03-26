@@ -1,0 +1,1387 @@
+[1][2025/03/19 10:15:48][::1][menus][ajaxSaveMenu[{"label":"About Us","id":1},{"label":"Contact Us","id":3}]][Menu Updted Successfully]
+[1][2025/03/19 10:25:52][::1][pages][index][Pages]
+[1][2025/03/19 10:25:58][::1][pages][index][Pages]
+[1][2025/03/19 10:26:15][::1][pages][index][Pages]
+[1][2025/03/19 10:26:17][::1][pages][index][Pages]
+[1][2025/03/19 10:26:21][::1][pages][index][Pages]
+[1][2025/03/19 10:26:23][::1][pages][index][Pages]
+[1][2025/03/19 10:26:31][::1][pages][index][Pages]
+[1][2025/03/19 10:26:33][::1][pages][index][Pages]
+[1][2025/03/19 10:26:54][::1][pages][index][Pages]
+[1][2025/03/19 10:26:59][::1][pages][addPage][Add Pages]
+[1][2025/03/19 10:33:10][::1][pages][createPageother~Contact Us~<section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="index.html">Home</a> <i class="far fa-circle"></i> Contact Us</p>
+                    <h2>Contact Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2><h2><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/maps_8378181318.png"><span style="color: rgb(0, 0, 0); font-family: sans-serif; background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</span></h2><h2><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/email_3690077827.png"><span style="color: rgb(0, 0, 0); font-family: sans-serif; background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);"><br></span><span style="color: rgb(0, 0, 0); font-family: sans-serif; background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);">info@gowtham.org, support@gowtham.org</span></h2><h2><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/smartphone_6931137932.png"><span style="color: rgb(0, 0, 0); font-family: sans-serif; background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);"><br></span><span style="color: rgb(0, 0, 0); font-family: sans-serif; background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);">+91 40 35174598, 35181449, Mobile No : 8096992222</span></h2>
+                    </div>
+                </div></div></div></section>~~~0~][Add Pages]
+[1][2025/03/19 10:33:10][::1][pages][index][Pages]
+[1][2025/03/19 10:33:12][::1][pages][addPage][Add Pages]
+[1][2025/03/19 10:33:55][::1][pages][createPageother~footer banner images~~~~0~footer.jpg][Add Pages]
+[1][2025/03/19 10:33:55][::1][pages][index][Pages]
+[1][2025/03/19 10:33:58][::1][pages][addPage][Add Pages]
+[1][2025/03/19 10:34:35][::1][pages][createPageother~index banner image~~~~0~breadcrumb_banner.jpg][Add Pages]
+[1][2025/03/19 10:34:35][::1][pages][index][Pages]
+[1][2025/03/19 10:35:02][::1][pages][index][Pages]
+[1][2025/03/19 10:35:06][::1][pages][editPage10][Edit Pages]
+[1][2025/03/19 10:35:16][::1][pages][index][Pages]
+[1][2025/03/19 10:36:32][::1][pages][editPage10][Edit Pages]
+[1][2025/03/19 10:36:39][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 10:36:39][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 10:36:39][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 10:36:53][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 10:39:57][::1][pages][editPage10~about~About GMS~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="index.html">Home</a> <i class="far fa-circle"></i> About Us</p>
+                    <h2>About Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+            <div class="row ">
+                
+                <div class="col-lg-7">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec">About GMS</h2>
+                    </div>
+                    <div>
+                        <p style="color: #a13984;"><b>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</b></p>
+
+                        <p class="pt-3">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</p>
+                        
+                        
+                    </div>
+                </div>
+                <div class="col-lg-5"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about_img_4866609541.jpg"><br></div>
+            </div>
+
+
+            <div class="row gap mb-0 pb-0">
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5" style="border-radius: 100px;">
+                        <div>
+                            <h3>Vision</h3>
+                            <p>"Our vision is to create a world where every individual, regardless of their socio-economic background, has equal access to high-quality education. We strive to make education affordable for all, by providing innovative, sustainable, and inclusive learning environments that foster growth, creativity, and success. Our mission is to empower students to reach their full potential and become active, informed, and responsible citizens who contribute to a better future for all."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_1280623095.png"><br></div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5 mb-xl-0" style="border-radius: 100px;">
+                        <div>
+                            <h3>Mission</h3>
+                            <p>Our mission is to provide affordable and accessible education that empowers all students to achieve their goals and realize their full potential. We are committed to creating a supportive and inclusive learning environment that fosters intellectual curiosity, critical thinking, and creativity. Through our innovative programs, experienced faculty, and modern facilities, we aim to equip our students with the knowledge, skills, and values they need to succeed in a rapidly changing world. We believe that education is a fundamental human right, and we strive to make it accessible to everyone, regardless of their financial means."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_7430105077.png"><br></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/19 10:39:58][::1][pages][index][Pages]
+[1][2025/03/19 10:40:14][::1][pages][editPage12][Edit Pages]
+[1][2025/03/19 10:40:19][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 10:42:08][::1][pages][editPage12][Edit Pages]
+[1][2025/03/19 10:42:25][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 10:44:07][::1][pages][editPage12][Edit Pages]
+[][2025/03/19 10:46:54][::1][pages][editPage12][Edit Pages]
+[][2025/03/19 10:48:15][::1][pages][editPage12][Edit Pages]
+[][2025/03/19 10:48:26][::1][pages][index][Pages]
+[1][2025/03/19 10:48:57][::1][pages][index][Pages]
+[1][2025/03/19 10:48:59][::1][pages][editPage14][Edit Pages]
+[][2025/03/19 10:49:10][::1][pages][editPage14][Edit Pages]
+[][2025/03/19 10:49:49][::1][pages][editPage14][Edit Pages]
+[1][2025/03/19 10:56:50][::1][pages][editPage14~other~Contact Us~<section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="index.html">Home</a> <i class="far fa-circle"></i> Contact Us</p>
+                    <h2>Contact Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2><h2><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/maps_2030086122.png"><span style="color: rgb(0, 0, 0); font-family: sans-serif; background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</span></h2><h2><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/email_6518661421.png">&nbsp;<span style="color: rgb(0, 0, 0); font-family: sans-serif; background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);">info@gowtham.org, support@gowtham.org</span></h2><h2><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/smartphone_5502139348.png"><span style="color: rgb(0, 0, 0); font-family: sans-serif; background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);">+91 40 35174598, 35181449, Mobile No : 8096992222</span></h2>
+                    </div>
+                </div></div></div></section>~~~0~][Update Pages]
+[1][2025/03/19 10:56:50][::1][pages][index][Pages]
+[1][2025/03/19 10:57:57][::1][pages][index][Pages]
+[1][2025/03/19 10:58:00][::1][pages][editPage10][Edit Pages]
+[1][2025/03/19 11:00:30][::1][pages][editPage10][Edit Pages]
+[1][2025/03/19 11:00:55][::1][pages][editPage10~about~About GMS~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="index.html">Home</a> <i class="far fa-circle"></i> About Us</p>
+                    <h2>About Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+            <div class="row ">
+                
+                <div class="col-lg-7">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec">About GMS</h2>
+                    </div>
+                    <div>
+                        <p style="color: #a13984;"><b>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</b></p>
+
+                        <p class="pt-3">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</p>
+                        
+                        
+                    </div>
+                </div>
+                <div class="col-lg-5"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about_img_4866609541.jpg"><br></div>
+            </div>
+
+
+            <div class="row gap mb-0 pb-0">
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5" style="border-radius: 100px;">
+                        <div>
+                            <h3>Vision</h3>
+                            <p>"Our vision is to create a world where every individual, regardless of their socio-economic background, has equal access to high-quality education. We strive to make education affordable for all, by providing innovative, sustainable, and inclusive learning environments that foster growth, creativity, and success. Our mission is to empower students to reach their full potential and become active, informed, and responsible citizens who contribute to a better future for all."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_1507804091.png"><br></div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5 mb-xl-0" style="border-radius: 100px;">
+                        <div>
+                            <h3>Mission</h3>
+                            <p>Our mission is to provide affordable and accessible education that empowers all students to achieve their goals and realize their full potential. We are committed to creating a supportive and inclusive learning environment that fosters intellectual curiosity, critical thinking, and creativity. Through our innovative programs, experienced faculty, and modern facilities, we aim to equip our students with the knowledge, skills, and values they need to succeed in a rapidly changing world. We believe that education is a fundamental human right, and we strive to make it accessible to everyone, regardless of their financial means."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_951535011.png"><br></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/19 11:00:55][::1][pages][index][Pages]
+[1][2025/03/19 11:02:01][::1][pages][editPage13][Edit Pages]
+[1][2025/03/19 11:02:30][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 11:02:30][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 11:02:56][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 11:02:56][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 11:02:59][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 11:02:59][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 11:03:45][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 11:03:45][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 11:04:29][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 11:09:40][::1][pages][editPage13~about~ Chairman Message~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="trainers_training d-lg-flex align-items-center" style="background-image: url(<?php echo UPLOADURL.'/pages/'.$this->pages->banner_image;?>);"> <img src="http://localhost/GouthamSchool/uploads/pages/chairmanimg_6503590912.png">
+                <div class="text-sec">
+                    <h2>Chairman Message</h2>
+                    <p><i>My vision is to provide Quality Education at an affordable price. My vision has turned into the core policy of the Institution’s business model. It offers great value for money by providing constantly updated curriculum and also supplement its classroom teaching with technology aided tutelage.</i></p>
+                    
+                    <h5>Sri M. Venkatanarayana</h5>
+                    <p class="m-0 p-0"><i>Founder &amp; Chairman</i></p>
+                </div>
+            </div>
+        </div>
+    </section>~chairmanimg.png, trainers_training.png~~~0~trainers_training.png][Update Pages]
+[1][2025/03/19 11:09:40][::1][pages][index][Pages]
+[1][2025/03/19 11:09:44][::1][pages][editPage11][Edit Pages]
+[1][2025/03/19 11:09:44][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 11:09:45][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 11:09:47][::1][pages][index][Pages]
+[1][2025/03/19 11:09:50][::1][pages][deletePage11][Delete Pages]
+[1][2025/03/19 11:09:50][::1][pages][index][Pages]
+[1][2025/03/19 11:50:12][::1][pages][index][Pages]
+[1][2025/03/19 13:24:07][::1][menus][ajaxSaveMenu[{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Contact Us","id":3}]][Menu Updted Successfully]
+[1][2025/03/19 13:24:18][::1][menus][ajaxSaveMenu[{"label":"About Us","id":1},{"label":"Contact Us","id":3},{"label":"Teachers Login","id":4}]][Menu Updted Successfully]
+[1][2025/03/19 13:40:57][::1][packages][updateSettingsDetailssiri_3361081570.png~favicon_8171303963.png~ info@gowtham.org~+91 40 35174598 ~West Marredpally, Secunderabad-500026.~https://facebook.com~https://instagram.com~https://youtube.com~https://twitter.com~https://pintereset.com~Mon to Sat : 7.00 am - 9.00 pm~+91 40 35174598,+91 40 35181449~West Marredpally, Secunderabad-500026.~siri_4594915932.png~1~siri_3361081570.png~favicon_8171303963.png~footer_4423130651.jpg][Package Updated]
+[1][2025/03/19 14:03:17][::1][pages][index][Pages]
+[1][2025/03/19 14:03:20][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 14:06:42][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~<div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="about.html" class="sec-btn">Know More</a>
+                    </div>
+                
+            
+        ~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/19 14:06:42][::1][pages][index][Pages]
+[1][2025/03/19 14:14:45][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 14:21:38][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~<div>
+                        <p><br></p><div style="margin: 0px; padding: 0px; color: rgb(33, 37, 41); font-family: Roboto, sans-serif; font-size: 16px;"><p style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 30px; color: rgb(85, 85, 85);">Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p><div class="count-style" style="margin: 0px; padding: 60px 0px; display: flex; text-align: center; justify-content: space-between;"><div class="count-text" style="margin: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="60" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">+</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Schools</h3></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text" style="margin: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="45" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">k</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Students</h3></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text mb-0" style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="96" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">%</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Results</h3></div></div><a href="http://localhost/gowthammodelschools/about.html" class="sec-btn" style="margin: 0px; padding: 18px 30px; text-decoration: none; font-size: 14px; line-height: 15px; text-align: center; text-transform: uppercase; height: 50px; background: rgb(55, 49, 126); display: inline-block; overflow: hidden; border-radius: 30px; z-index: 1; letter-spacing: 0.5px; transition: 0.2s cubic-bezier(0.98, 0.57, 1, 1); font-weight: 800; color: rgb(255, 255, 255) !important;">Know More</a></div></div>
+                
+            
+        ~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/19 14:21:38][::1][pages][index][Pages]
+[1][2025/03/19 14:21:49][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 14:21:57][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~<div>
+                        <p><span style="color: rgb(85, 85, 85); font-family: Roboto, sans-serif; font-size: 16px; background-color: var(--tb-card-bg); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);">Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</span></p><div style="margin: 0px; padding: 0px; color: rgb(33, 37, 41); font-family: Roboto, sans-serif; font-size: 16px;"><div class="count-style" style="margin: 0px; padding: 60px 0px; display: flex; text-align: center; justify-content: space-between;"><div class="count-text" style="margin: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="60" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">+</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Schools</h3></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text" style="margin: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="45" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">k</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Students</h3></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text mb-0" style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="96" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">%</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Results</h3></div></div><a href="http://localhost/gowthammodelschools/about.html" class="sec-btn" style="margin: 0px; padding: 18px 30px; text-decoration: none; font-size: 14px; line-height: 15px; text-align: center; text-transform: uppercase; height: 50px; background: rgb(55, 49, 126); display: inline-block; overflow: hidden; border-radius: 30px; z-index: 1; letter-spacing: 0.5px; transition: 0.2s cubic-bezier(0.98, 0.57, 1, 1); font-weight: 800; color: rgb(255, 255, 255) !important;">Know More</a></div></div>
+                
+            
+        ~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/19 14:21:57][::1][pages][index][Pages]
+[1][2025/03/19 14:27:10][::1][pages][editPage8][Edit Pages]
+[1][2025/03/19 14:27:15][::1][pages][index][Pages]
+[1][2025/03/19 14:28:36][::1][pages][editPage8][Edit Pages]
+[1][2025/03/19 14:29:06][::1][pages][editPage8~home~OUR UNIQUE LEARNING ENVIRONMENT~<p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>~unique_img.jpg, visitsectionimg.png~Go to success from strong foundations~~0~unique_img.jpg, visitsectionimg.png][Update Pages]
+[1][2025/03/19 14:29:06][::1][pages][index][Pages]
+[1][2025/03/19 14:29:44][::1][pages][editPage8][Edit Pages]
+[1][2025/03/19 14:31:29][::1][pages][editPage8][Edit Pages]
+[1][2025/03/19 14:32:12][::1][pages][editPage8~home~OUR UNIQUE LEARNING ENVIRONMENT~<p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>~unique_img.jpg, visitsectionimg.png~Go to success from strong foundations~~0~trainers_training.png, tw.png, unique_img.jpg][Update Pages]
+[1][2025/03/19 14:32:12][::1][pages][index][Pages]
+[1][2025/03/19 14:32:36][::1][pages][editPage8][Edit Pages]
+[1][2025/03/19 14:33:28][::1][pages][editPage8~home~OUR UNIQUE LEARNING ENVIRONMENT~<p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>~trainers_training.png, tw.png, unique_img.jpg~Go to success from strong foundations~~0~trainers_training.png, unique_img.jpg][Update Pages]
+[1][2025/03/19 14:33:28][::1][pages][index][Pages]
+[1][2025/03/19 14:34:39][::1][pages][addPage][Add Pages]
+[1][2025/03/19 14:38:10][::1][pages][createPagehome~FACILITIES AT GMS~<section class="gap position-relative" style="margin: 0px; padding: 90px 0px; color: rgb(33, 37, 41); font-family: Roboto, sans-serif; font-size: 16px;"><div class="container" style="margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-right: var(--bs-gutter-x,.75rem); padding-bottom: 0px; padding-left: var(--bs-gutter-x,.75rem); width: 1320px; max-width: 1320px;"><div class="heading" style="margin: auto; padding: 0px; text-align: center; width: 1049.75px; position: relative;"><h2 class="pb-70" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 30px; font-size: 40px; color: rgb(0, 0, 0);"><br></h2></div><div class="row" style="margin-top: calc(-1 * var(--bs-gutter-y)); margin-right: calc(-.5 * var(--bs-gutter-x)); margin-bottom: 0px; margin-left: calc(-.5 * var(--bs-gutter-x)); padding: 0px; --bs-gutter-y: 0;"><div class="col-lg-6" style="margin-top: var(--bs-gutter-y); margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: calc(var(--bs-gutter-x) * .5); padding-bottom: 0px; padding-left: calc(var(--bs-gutter-x) * .5); width: 660px;"><div class="service-two-text" style="margin: 0px 0px 40px; padding: 20px 0px 20px 70px; position: relative; background-color: rgb(243, 243, 243); display: flex; border-radius: 30px 96px 96px 140px; align-items: center; width: 572.4px; transition: 0.5s;"><div style="margin: 0px; padding: 0px;"><h3 style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 10px; font-size: 22px; color: rgb(0, 0, 0); text-transform: uppercase; transition: 0.5s;">Science Labs</h3><p style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-size: 14px; line-height: 23px; color: rgb(85, 85, 85);">GMS believes that, students should have sound practical training to substantiate theoretical ...</p></div><div class="service-text-two" style="margin: 0px -20px 0px 20px; padding: 0px; position: relative;"><i style="margin: 0px; padding: 30px; border: 6px solid rgb(255, 255, 255); width: 100px; display: flex; align-items: center; justify-content: center; height: 100px; border-radius: 50%; background-color: rgb(169, 54, 145);"><img src="http://localhost/gowthammodelschools/assets/img/five-elements-icon-1.png" alt="service-icon" style="margin: 0px; padding: 0px; object-fit: cover; transition: 0.5s; border-radius: 0px !important;"></i></div></div></div><div class="col-lg-6" style="margin-top: var(--bs-gutter-y); margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: calc(var(--bs-gutter-x) * .5); padding-bottom: 0px; padding-left: calc(var(--bs-gutter-x) * .5); width: 660px;"><div class="service-two-text" style="margin: 0px 0px 40px; padding: 20px 0px 20px 70px; position: relative; background-color: rgb(243, 243, 243); display: flex; border-radius: 30px 96px 96px 140px; align-items: center; width: 572.4px; transition: 0.5s;"><div style="margin: 0px; padding: 0px;"><h3 style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 10px; font-size: 22px; color: rgb(0, 0, 0); text-transform: uppercase; transition: 0.5s;">Digital classrooms</h3><p style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-size: 14px; line-height: 23px; color: rgb(85, 85, 85);">The growth and development of the social structure, the scientific advancements are all the resuls ...</p></div><div class="service-text-two" style="margin: 0px -20px 0px 20px; padding: 0px; position: relative;"><i style="margin: 0px; padding: 30px; border: 6px solid rgb(255, 255, 255); width: 100px; display: flex; align-items: center; justify-content: center; height: 100px; border-radius: 50%; background-color: rgb(169, 54, 145);"><img src="http://localhost/gowthammodelschools/assets/img/five-elements-icon-2.png" alt="service-icon" style="margin: 0px; padding: 0px; object-fit: cover; transition: 0.5s; border-radius: 0px !important;"></i></div></div></div><div class="col-lg-6" style="margin-top: var(--bs-gutter-y); margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: calc(var(--bs-gutter-x) * .5); padding-bottom: 0px; padding-left: calc(var(--bs-gutter-x) * .5); width: 660px;"><div class="service-two-text" style="margin: 0px 0px 40px; padding: 20px 0px 20px 70px; position: relative; background-color: rgb(243, 243, 243); display: flex; border-radius: 30px 96px 96px 140px; align-items: center; width: 572.4px; transition: 0.5s;"><div style="margin: 0px; padding: 0px;"><h3 style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 10px; font-size: 22px; color: rgb(0, 0, 0); text-transform: uppercase; transition: 0.5s;">Large Sports Campus</h3><p style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-size: 14px; line-height: 23px; color: rgb(85, 85, 85);">Sports are not an alternative but the most essential aspect of education. It is a lesson on team..</p></div><div class="service-text-two" style="margin: 0px -20px 0px 20px; padding: 0px; position: relative;"><i style="margin: 0px; padding: 30px; border: 6px solid rgb(255, 255, 255); width: 100px; display: flex; align-items: center; justify-content: center; height: 100px; border-radius: 50%; background-color: rgb(169, 54, 145);"><img src="http://localhost/gowthammodelschools/assets/img/five-elements-icon-3.png" alt="service-icon" style="margin: 0px; padding: 0px; object-fit: cover; transition: 0.5s; border-radius: 0px !important;"></i></div></div></div><div class="col-lg-6" style="margin-top: var(--bs-gutter-y); margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: calc(var(--bs-gutter-x) * .5); padding-bottom: 0px; padding-left: calc(var(--bs-gutter-x) * .5); width: 660px;"><div class="service-two-text" style="margin: 0px 0px 40px; padding: 20px 0px 20px 70px; position: relative; background-color: rgb(243, 243, 243); display: flex; border-radius: 30px 96px 96px 140px; align-items: center; width: 572.4px; transition: 0.5s;"><div style="margin: 0px; padding: 0px;"><h3 style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 10px; font-size: 22px; color: rgb(0, 0, 0); text-transform: uppercase; transition: 0.5s;">Modern Library</h3><p style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-size: 14px; line-height: 23px; color: rgb(85, 85, 85);">At GMS, the library has a very good collection of books on various topics, excellent study materials ...</p></div><div class="service-text-two" style="margin: 0px -20px 0px 20px; padding: 0px; position: relative;"><i style="margin: 0px; padding: 30px; border: 6px solid rgb(255, 255, 255); width: 100px; display: flex; align-items: center; justify-content: center; height: 100px; border-radius: 50%; background-color: rgb(169, 54, 145);"><img src="http://localhost/gowthammodelschools/assets/img/five-elements-icon-4.png" alt="service-icon" style="margin: 0px; padding: 0px; object-fit: cover; transition: 0.5s; border-radius: 0px !important;"></i></div></div></div><div class="col-lg-6" style="margin-top: var(--bs-gutter-y); margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: calc(var(--bs-gutter-x) * .5); padding-bottom: 0px; padding-left: calc(var(--bs-gutter-x) * .5); width: 660px;"><div class="service-two-text" style="margin: 0px 0px 40px; padding: 20px 0px 20px 70px; position: relative; background-color: rgb(243, 243, 243); display: flex; border-radius: 30px 96px 96px 140px; align-items: center; width: 572.4px; transition: 0.5s;"><div style="margin: 0px; padding: 0px;"><h3 style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 10px; font-size: 22px; color: rgb(0, 0, 0); text-transform: uppercase; transition: 0.5s;">Computer Labs</h3><p style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-size: 14px; line-height: 23px; color: rgb(85, 85, 85);">The world is shrinking and coming together through technological development made in the field of ...</p></div><div class="service-text-two" style="margin: 0px -20px 0px 20px; padding: 0px; position: relative;"><i style="margin: 0px; padding: 30px; border: 6px solid rgb(255, 255, 255); width: 100px; display: flex; align-items: center; justify-content: center; height: 100px; border-radius: 50%; background-color: rgb(169, 54, 145);"><img src="http://localhost/gowthammodelschools/assets/img/five-elements-icon-5.png" alt="service-icon" style="margin: 0px; padding: 0px; object-fit: cover; transition: 0.5s; border-radius: 0px !important;"></i></div></div></div><div class="col-lg-6" style="margin-top: var(--bs-gutter-y); margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: calc(var(--bs-gutter-x) * .5); padding-bottom: 0px; padding-left: calc(var(--bs-gutter-x) * .5); width: 660px;"><div class="service-two-text" style="margin: 0px 0px 40px; padding: 20px 0px 20px 70px; position: relative; background-color: rgb(243, 243, 243); display: flex; border-radius: 30px 96px 96px 140px; align-items: center; width: 572.4px; transition: 0.5s;"><div style="margin: 0px; padding: 0px;"><h3 style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px 0px 10px; font-size: 22px; color: rgb(0, 0, 0); text-transform: uppercase; transition: 0.5s;">Extra Curricular</h3><p style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-size: 14px; line-height: 23px; color: rgb(85, 85, 85);">Students come to learn but at times they teach us many new things. At GMS, students...</p></div><div class="service-text-two" style="margin: 0px -20px 0px 20px; padding: 0px; position: relative;"><i style="margin: 0px; padding: 30px; border: 6px solid rgb(255, 255, 255); width: 100px; display: flex; align-items: center; justify-content: center; height: 100px; border-radius: 50%; background-color: rgb(169, 54, 145);"><img src="http://localhost/gowthammodelschools/assets/img/five-elements-icon-5.png" alt="service-icon" style="margin: 0px; padding: 0px; object-fit: cover; transition: 0.5s; border-radius: 0px !important;"></i></div></div></div></div></div></section><section class="gap" style="margin: 0px; padding: 90px 0px; color: rgb(33, 37, 41); font-family: Roboto, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);"><div class="container" style="margin-top: 0px; margin-bottom: 0px; padding-top: 0px; padding-right: var(--bs-gutter-x,.75rem); padding-bottom: 0px; padding-left: var(--bs-gutter-x,.75rem); width: 1320px; max-width: 1320px;"><div class="row align-items-center" style="margin-top: calc(-1 * var(--bs-gutter-y)); margin-right: calc(-.5 * var(--bs-gutter-x)); margin-bottom: 0px; margin-left: calc(-.5 * var(--bs-gutter-x)); padding: 0px; --bs-gutter-y: 0;"><div class="col-lg-6" style="margin-top: var(--bs-gutter-y); margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: calc(var(--bs-gutter-x) * .5); padding-bottom: 0px; padding-left: calc(var(--bs-gutter-x) * .5); width: 660px;"><div class="heading two w-100" style="margin: initial; padding: 0px; width: 636px; text-align: initial; position: relative;"></div></div></div></div></section>~The concept of Gowtham Educational is quality education.~~0~][Add Pages]
+[1][2025/03/19 14:38:10][::1][pages][index][Pages]
+[1][2025/03/19 14:40:17][::1][pages][editPage17][Edit Pages]
+[1][2025/03/19 14:40:23][::1][pages][index][Pages]
+[1][2025/03/19 14:40:25][::1][pages][editPage9][Edit Pages]
+[1][2025/03/19 14:40:36][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:40:36][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:40:36][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:40:36][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:40:36][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:40:52][::1][pages][editPage9~home~FACILITIES AT GMS~<section class="gap position-relative">
+        <div class="container">
+            <div class="heading">
+                <h5>The concept of Gowtham Educational is quality education.</h5>
+                <h2 class="pb-70">FACILITIES AT GMS</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                            <h3>Science Labs</h3>
+                            <p>GMS believes that, students should have sound practical training to substantiate theoretical ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="assets/img/five-elements-icon-1.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                            <h3>Digital classrooms</h3>
+                            <p>The growth and development of the social structure, the scientific advancements are all the resuls ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="assets/img/five-elements-icon-2.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                           <h3>Large Sports Campus</h3>
+                            <p>Sports are not an alternative but the most essential aspect of education. It is a lesson on team..</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="assets/img/five-elements-icon-3.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Modern Library</h3>
+                            <p>At GMS, the library has a very good collection of books on various topics, excellent study materials ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="assets/img/five-elements-icon-4.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Computer Labs</h3>
+                            <p>The world is shrinking and coming together through technological development made in the field of ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="assets/img/five-elements-icon-5.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Extra Curricular</h3>
+                            <p>Students come to learn but at times they teach us many new things. At GMS, students...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="assets/img/five-elements-icon-5.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    ~The concept of Gowtham Educational is quality education.~~0~][Update Pages]
+[1][2025/03/19 14:40:52][::1][pages][index][Pages]
+[1][2025/03/19 14:41:45][::1][pages][editPage9][Edit Pages]
+[1][2025/03/19 14:41:45][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:41:45][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:41:45][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:41:46][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:41:46][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:42:30][::1][pages][editPage9][Edit Pages]
+[1][2025/03/19 14:42:30][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:42:31][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:42:31][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:42:31][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:42:31][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:42:46][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:42:46][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:42:46][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:43:40][::1][pages][editPage9~home~FACILITIES AT GMS~<section class="gap position-relative">
+        <div class="container">
+            <div class="heading">
+                <h5>The concept of Gowtham Educational is quality education.</h5>
+                <h2 class="pb-70">FACILITIES AT GMS</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                            <h3>Science Labs</h3>
+                            <p>GMS believes that, students should have sound practical training to substantiate theoretical ...</p>
+                        </div>
+                        <div class="service-text-two"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_2960203961.png"><br></div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                            <h3>Digital classrooms</h3>
+                            <p>The growth and development of the social structure, the scientific advancements are all the resuls ...</p>
+                        </div>
+                        <div class="service-text-two"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_1136066714.png"><br></div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                           <h3>Large Sports Campus</h3>
+                            <p>Sports are not an alternative but the most essential aspect of education. It is a lesson on team..</p>
+                        </div>
+                        <div class="service-text-two"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-3_2122290868.png"><br></div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Modern Library</h3>
+                            <p>At GMS, the library has a very good collection of books on various topics, excellent study materials ...</p>
+                        </div>
+                        <div class="service-text-two"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-4_6607767981.png"><br></div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Computer Labs</h3>
+                            <p>The world is shrinking and coming together through technological development made in the field of ...</p>
+                        </div>
+                        <div class="service-text-two"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-5_3863123198.png"><br></div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Extra Curricular</h3>
+                            <p>Students come to learn but at times they teach us many new things. At GMS, students...</p>
+                        </div>
+                        <div class="service-text-two"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-6_4171852044.png"><br></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    ~The concept of Gowtham Educational is quality education.~~0~][Update Pages]
+[1][2025/03/19 14:43:40][::1][pages][index][Pages]
+[1][2025/03/19 14:44:35][::1][pages][editPage9][Edit Pages]
+[1][2025/03/19 14:46:36][::1][pages][editPage9~home~FACILITIES AT GMS~<section class="gap position-relative">
+        <div class="container">
+            <div class="heading">
+                <h5>The concept of Gowtham Educational is quality education.</h5>
+                <h2 class="pb-70">FACILITIES AT GMS</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                            <h3>Science Labs</h3>
+                            <p>GMS believes that, students should have sound practical training to substantiate theoretical ...</p>
+                        </div>
+                        <div class="service-text-two"> <i><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_2960203961.png" alt="service-icon"></i></div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                            <h3>Digital classrooms</h3>
+                            <p>The growth and development of the social structure, the scientific advancements are all the resuls ...</p>
+                        </div>
+                        <div class="service-text-two"><i><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_1136066714.png" alt="service-icon"></i></div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                           <h3>Large Sports Campus</h3>
+                            <p>Sports are not an alternative but the most essential aspect of education. It is a lesson on team..</p>
+                        </div>
+                        <div class="service-text-two"><i><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-3_2122290868.png" alt="service-icon"></i></div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Modern Library</h3>
+                            <p>At GMS, the library has a very good collection of books on various topics, excellent study materials ...</p>
+                        </div>
+                        <div class="service-text-two"><i><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-4_6607767981.png" alt="service-icon"></i></div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Computer Labs</h3>
+                            <p>The world is shrinking and coming together through technological development made in the field of ...</p>
+                        </div>
+                        <div class="service-text-two"><i><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-5_3863123198.png" alt="service-icon"></i></div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Extra Curricular</h3>
+                            <p>Students come to learn but at times they teach us many new things. At GMS, students...</p>
+                        </div>
+                        <div class="service-text-two"> <i><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-6_4171852044.png" alt="service-icon"></i></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    ~The concept of Gowtham Educational is quality education.~~0~][Update Pages]
+[1][2025/03/19 14:46:36][::1][pages][index][Pages]
+[1][2025/03/19 14:47:47][::1][pages][editPage17][Edit Pages]
+[1][2025/03/19 14:48:02][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 14:48:33][::1][pages][editPage17~home~One Step away for bright future for your kid~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>One Step away for bright future for your kid</p>
+                        <h2 class="about-sec pb-0">Visit us today to explore Gowtham Model Schools!</h2>
+                    </div>
+                    <div>
+                        <p>The concept of Gowtham Educational Institutions is quality education at all spheres and preparation of a generation that's confident, courageous and capable of attaining success.</p>
+                        
+                        <a href="contact.html" class="sec-btn mt-3">Contact Us</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="provide-img"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/visitsectionimg_5346225632.png"><br></div>
+                </div>
+                
+            </div>
+        </div>
+    </section>~visitsectionimg.png~Visit us today to explore Gowtham Model Schools !~~0~visitsectionimg.png][Update Pages]
+[1][2025/03/19 14:48:33][::1][pages][index][Pages]
+[1][2025/03/19 14:49:34][::1][pages][editPage8][Edit Pages]
+[1][2025/03/19 14:49:46][::1][pages][index][Pages]
+[1][2025/03/19 14:52:55][::1][packages][updateSettingsDetailssiri_3361081570.png~favicon_8171303963.png~ info@gowtham.org~+91 40 35174598 ~West Marredpally, Secunderabad-500026.~https://facebook.com~https://instagram.com~https://youtube.com~https://twitter.com~https://pintereset.com~Mon to Sat : 7.00 am - 9.00 pm~+91 40 35174598,+91 40 35181449~West Marredpally, Secunderabad-500026.~footer_4423130651.jpg~1~logo_3946530504.jpg~favicon_8171303963.png~footer_4423130651.jpg][Package Updated]
+[1][2025/03/19 14:57:36][::1][pages][index][Pages]
+[1][2025/03/19 14:57:41][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 14:58:06][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~
+                        <p><span style="color: rgb(85, 85, 85); font-family: Roboto, sans-serif; font-size: 16px;">Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</span></p><div class="count-style" style="margin: 0px; padding: 60px 0px; display: flex; text-align: center; justify-content: space-between;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="60" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">+</span></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text" style="margin: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="45" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">k</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Students</h3></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text mb-0" style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="96" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">%</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Results</h3></div></div>~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/19 14:58:06][::1][pages][index][Pages]
+[1][2025/03/19 14:59:13][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 14:59:53][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~                         <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p><div class="count-style" style="margin: 0px; padding: 60px 0px; display: flex; text-align: center; justify-content: space-between;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="60" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">+</span></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text" style="margin: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="45" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">k</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Students</h3></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text mb-0" style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="96" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">%</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Results</h3></div></div>~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/19 14:59:53][::1][pages][index][Pages]
+[1][2025/03/19 15:00:01][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 15:00:24][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~                         <p><span style="color: rgb(85, 85, 85); font-family: Roboto, sans-serif; font-size: 16px;">Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</span><span style="font-family: Arial;">﻿</span></p><div class="count-style" style="margin: 0px; padding: 60px 0px; display: flex; text-align: center; justify-content: space-between;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="60" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">+</span></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text" style="margin: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="45" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">k</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Students</h3></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text mb-0" style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="96" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">%</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Results</h3></div></div>~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/19 15:00:24][::1][pages][index][Pages]
+[1][2025/03/19 15:00:33][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 15:01:19][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~                         <p><span style="color: rgb(85, 85, 85); font-family: Arial; font-size: 16px;">Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS </span><span style="font-family: Arial;">﻿</span><span style="color: rgb(85, 85, 85); font-family: Arial; font-size: 16px;">has been ranked as one of the largest group in terms of number of schools and students.</span><span style="font-family: Arial;">﻿</span></p><div class="count-style" style="margin: 0px; padding: 60px 0px; display: flex; text-align: center; justify-content: space-between;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="60" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">+</span></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text" style="margin: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="45" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">k</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Students</h3></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text mb-0" style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="96" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">%</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Results</h3></div></div>~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/19 15:01:19][::1][pages][index][Pages]
+[1][2025/03/19 15:01:36][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 15:01:54][::1][pages][index][Pages]
+[1][2025/03/19 15:02:08][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 15:02:15][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~                         <p style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-size: 16px; line-height: 30px; color: rgb(85, 85, 85); font-family: Roboto, sans-serif;">Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p><div class="count-style" style="margin: 0px; padding: 60px 0px; display: flex; text-align: center; justify-content: space-between; color: rgb(33, 37, 41); font-family: Roboto, sans-serif; font-size: 16px;"><div class="count-text" style="margin: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="60" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">+</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Schools</h3></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text" style="margin: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="45" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">k</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Students</h3></div><div class="boder" style="margin: 0px; padding: 0px; height: 110px; width: 1px; background-color: rgb(192, 192, 192);"></div><div class="count-text mb-0" style="margin-top: 0px; margin-right: 0px; margin-left: 0px; padding: 0px; width: 211.562px;"><div class="d-flex justify-content-center" style="margin: 0px; padding: 0px;"><h2 class="count" data-number="96" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; line-height: 1; font-size: 50px; color: rgb(169, 54, 145);"></h2><span style="margin: 0px; padding: 0px; font-size: 50px; font-weight: 800; line-height: 1; color: rgb(169, 54, 145);">%</span></div><h3 class="text" style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 0px; font-weight: 500; font-size: 18px; color: rgb(0, 0, 0);">Results</h3></div></div><p><a href="http://localhost/gowthammodelschools/about.html" class="sec-btn" style="margin: 0px; padding: 18px 30px; text-decoration: none; font-size: 14px; line-height: 15px; text-align: center; text-transform: uppercase; height: 50px; background: rgb(55, 49, 126); display: inline-block; overflow: hidden; border-radius: 30px; z-index: 1; letter-spacing: 0.5px; transition: 0.2s cubic-bezier(0.98, 0.57, 1, 1); font-weight: 800; font-family: Roboto, sans-serif; color: rgb(255, 255, 255) !important;">Know More</a></p>~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/19 15:02:15][::1][pages][index][Pages]
+[1][2025/03/19 15:02:34][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 15:05:24][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~<div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="about.html" class="sec-btn">Know More</a>
+                    </div>
+                ~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/19 15:05:25][::1][pages][index][Pages]
+[1][2025/03/19 16:28:39][::1][pages][index][Pages]
+[1][2025/03/19 16:28:43][::1][pages][editPage10][Edit Pages]
+[1][2025/03/19 16:43:52][::1][pages][index][Pages]
+[1][2025/03/19 16:43:55][::1][pages][editPage13][Edit Pages]
+[1][2025/03/19 16:44:41][::1][pages][editPage13~about~ Chairman Message~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="trainers_training d-lg-flex align-items-center" style="background-image: url(<?php echo UPLOADURL.'/pages/'.$this->pages->banner_image;?>);"> <img src="http://localhost/GouthamSchool/uploads/pages/chairmanimg_6503590912.png">
+                <div class="text-sec">
+                    <h2>Chairman Message</h2>
+                    <p><i>My vision is to provide Quality Education at an affordable price. My vision has turned into the core policy of the Institution’s business model. It offers great value for money by providing constantly updated curriculum and also supplement its classroom teaching with technology aided tutelage.</i></p>
+                    
+                    <h5>Sri M. Venkatanarayana</h5>
+                    <p class="m-0 p-0"><i>Founder & Chairman</i></p>
+                </div>
+            </div>
+        </div>
+    </section>~trainers_training.png~~~0~trainers_training.png][Update Pages]
+[1][2025/03/19 16:44:41][::1][pages][index][Pages]
+[1][2025/03/19 16:45:41][::1][pages][editPage13][Edit Pages]
+[1][2025/03/19 16:47:25][::1][pages][editPage13~about~ Chairman Message~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="trainers_training d-lg-flex align-items-center" style="background-image: url(http://localhost/GouthamSchool/uploads/pages/trainers_training.png);"> <img src="http://localhost/GouthamSchool/uploads/pages/chairmanimg_6503590912.png">
+                <div class="text-sec">
+                    <h2>Chairman Message</h2>
+                    <p><i>My vision is to provide Quality Education at an affordable price. My vision has turned into the core policy of the Institution’s business model. It offers great value for money by providing constantly updated curriculum and also supplement its classroom teaching with technology aided tutelage.</i></p>
+                    
+                    <h5>Sri M. Venkatanarayana</h5>
+                    <p class="m-0 p-0"><i>Founder &amp; Chairman</i></p>
+                </div>
+            </div>
+        </div>
+    </section>~trainers_training.png~~~0~trainers_training.png][Update Pages]
+[1][2025/03/19 16:47:25][::1][pages][index][Pages]
+[1][2025/03/19 16:49:26][::1][pages][editPage13][Edit Pages]
+[1][2025/03/19 16:49:29][::1][pages][index][Pages]
+[1][2025/03/19 16:49:31][::1][pages][editPage12][Edit Pages]
+[1][2025/03/19 16:49:48][::1][pages][index][Pages]
+[1][2025/03/19 16:49:50][::1][pages][editPage10][Edit Pages]
+[1][2025/03/19 16:53:47][::1][pages][editPage10~about~About GMS~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="index.html">Home</a> <i class="far fa-circle"></i> About Us</p>
+                    <h2>About Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+            <div class="row ">
+                
+                <div class="col-lg-7">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec">About GMS</h2>
+                    </div>
+                    <div>
+                        <p style="color: #a13984;"><b>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General & Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</b></p>
+
+                        <p class="pt-3">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</p>
+                        
+                        
+                    </div>
+                </div>
+                <div class="col-lg-5"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about_img_4866609541.jpg"><br></div>
+            </div>
+
+
+            <div class="row gap mb-0 pb-0">
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5" style="border-radius: 100px;">
+                        <div>
+                            <h3>Vision</h3>
+                            <p>"Our vision is to create a world where every individual, regardless of their socio-economic background, has equal access to high-quality education. We strive to make education affordable for all, by providing innovative, sustainable, and inclusive learning environments that foster growth, creativity, and success. Our mission is to empower students to reach their full potential and become active, informed, and responsible citizens who contribute to a better future for all."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_1507804091.png"><br></div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5 mb-xl-0" style="border-radius: 100px;">
+                        <div>
+                            <h3>Mission</h3>
+                            <p>Our mission is to provide affordable and accessible education that empowers all students to achieve their goals and realize their full potential. We are committed to creating a supportive and inclusive learning environment that fosters intellectual curiosity, critical thinking, and creativity. Through our innovative programs, experienced faculty, and modern facilities, we aim to equip our students with the knowledge, skills, and values they need to succeed in a rapidly changing world. We believe that education is a fundamental human right, and we strive to make it accessible to everyone, regardless of their financial means."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_951535011.png"><br></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/19 16:53:47][::1][pages][index][Pages]
+[1][2025/03/19 16:54:00][::1][pages][editPage10][Edit Pages]
+[1][2025/03/19 16:55:12][::1][pages][editPage10~about~About GMS~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="<?php SITEURL.'index'; ?>">Home</a> <i class="far fa-circle"></i> About Us</p>
+                    <h2>About Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+            <div class="row ">
+                
+                <div class="col-lg-7">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec">About GMS</h2>
+                    </div>
+                    <div>
+                        <p style="color: #a13984;"><b>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</b></p>
+
+                        <p class="pt-3">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</p>
+                        
+                        
+                    </div>
+                </div>
+                <div class="col-lg-5"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about_img_4866609541.jpg"><br></div>
+            </div>
+
+
+            <div class="row gap mb-0 pb-0">
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5" style="border-radius: 100px;">
+                        <div>
+                            <h3>Vision</h3>
+                            <p>"Our vision is to create a world where every individual, regardless of their socio-economic background, has equal access to high-quality education. We strive to make education affordable for all, by providing innovative, sustainable, and inclusive learning environments that foster growth, creativity, and success. Our mission is to empower students to reach their full potential and become active, informed, and responsible citizens who contribute to a better future for all."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_1507804091.png"><br></div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5 mb-xl-0" style="border-radius: 100px;">
+                        <div>
+                            <h3>Mission</h3>
+                            <p>Our mission is to provide affordable and accessible education that empowers all students to achieve their goals and realize their full potential. We are committed to creating a supportive and inclusive learning environment that fosters intellectual curiosity, critical thinking, and creativity. Through our innovative programs, experienced faculty, and modern facilities, we aim to equip our students with the knowledge, skills, and values they need to succeed in a rapidly changing world. We believe that education is a fundamental human right, and we strive to make it accessible to everyone, regardless of their financial means."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_951535011.png"><br></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/19 16:55:12][::1][pages][index][Pages]
+[1][2025/03/19 16:55:44][::1][pages][editPage10][Edit Pages]
+[1][2025/03/19 16:56:20][::1][pages][editPage10~about~About GMS~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="http://localhost/GouthamSchool/index">Home</a> <i class="far fa-circle"></i> About Us</p>
+                    <h2>About Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+            <div class="row ">
+                
+                <div class="col-lg-7">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec">About GMS</h2>
+                    </div>
+                    <div>
+                        <p style="color: #a13984;"><b>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</b></p>
+
+                        <p class="pt-3">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</p>
+                        
+                        
+                    </div>
+                </div>
+                <div class="col-lg-5"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about_img_4866609541.jpg"><br></div>
+            </div>
+
+
+            <div class="row gap mb-0 pb-0">
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5" style="border-radius: 100px;">
+                        <div>
+                            <h3>Vision</h3>
+                            <p>"Our vision is to create a world where every individual, regardless of their socio-economic background, has equal access to high-quality education. We strive to make education affordable for all, by providing innovative, sustainable, and inclusive learning environments that foster growth, creativity, and success. Our mission is to empower students to reach their full potential and become active, informed, and responsible citizens who contribute to a better future for all."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_1507804091.png"><br></div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5 mb-xl-0" style="border-radius: 100px;">
+                        <div>
+                            <h3>Mission</h3>
+                            <p>Our mission is to provide affordable and accessible education that empowers all students to achieve their goals and realize their full potential. We are committed to creating a supportive and inclusive learning environment that fosters intellectual curiosity, critical thinking, and creativity. Through our innovative programs, experienced faculty, and modern facilities, we aim to equip our students with the knowledge, skills, and values they need to succeed in a rapidly changing world. We believe that education is a fundamental human right, and we strive to make it accessible to everyone, regardless of their financial means."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_951535011.png"><br></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/19 16:56:20][::1][pages][index][Pages]
+[1][2025/03/19 16:56:44][::1][pages][index][Pages]
+[1][2025/03/19 16:56:46][::1][pages][editPage14][Edit Pages]
+[1][2025/03/19 16:57:12][::1][pages][editPage14~other~Contact Us~<section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="http://localhost/GouthamSchool/index">Home</a> <i class="far fa-circle"></i> Contact Us</p>
+                    <h2>Contact Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2><h2><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/maps_2030086122.png"><span style="color: rgb(0, 0, 0); font-family: sans-serif; background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</span></h2><h2><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/email_6518661421.png">&nbsp;<span style="color: rgb(0, 0, 0); font-family: sans-serif; background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);">info@gowtham.org, support@gowtham.org</span></h2><h2><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/smartphone_5502139348.png"><span style="color: rgb(0, 0, 0); font-family: sans-serif; background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);">+91 40 35174598, 35181449, Mobile No : 8096992222</span></h2>
+                    </div>
+                </div></div></div></section>~~~0~][Update Pages]
+[1][2025/03/19 16:57:12][::1][pages][index][Pages]
+[1][2025/03/19 17:01:57][::1][pages][index][Pages]
+[1][2025/03/19 17:03:13][::1][pages][index][Pages]
+[1][2025/03/19 17:03:15][::1][pages][index][Pages]
+[1][2025/03/19 17:03:33][::1][pages][index][Pages]
+[1][2025/03/19 17:05:11][::1][pages][editPage14][Edit Pages]
+[1][2025/03/19 17:05:20][::1][pages][editPage14~other~Contact Us~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="index.html">Home</a> <i class="far fa-circle"></i> Contact Us</p>
+                    <h2>Contact Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/19 17:05:20][::1][pages][index][Pages]
+[1][2025/03/19 17:05:21][::1][pages][addPage][Add Pages]
+[1][2025/03/19 17:06:12][::1][pages][index][Pages]
+[1][2025/03/19 17:06:15][::1][pages][editPage14][Edit Pages]
+[1][2025/03/19 17:06:18][::1][pages][index][Pages]
+[1][2025/03/19 17:06:19][::1][pages][addPage][Add Pages]
+[1][2025/03/19 17:06:56][::1][pages][createPageother~Contact Info~<section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+                <div class="col-lg-8 pt-3 pt-sm-0">
+                    <h2>We love to hear from you</h2>
+                    <p>Call us to book a meetup or send us emails to request for service consultation.</p>
+                        
+                                    <div class="row ">
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="name" class="form-label">Name*</label>
+                                                <input type="text" class="form-control" id="name" placeholder="Write your name" name="name">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="mail" class="form-label">Your Email*</label>
+                                                <input type="email" class="form-control" id="mail" placeholder="name@youremail.com" name="email">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="phone" class="form-label">Phone Number*</label>
+                                                <input type="text" class="form-control" id="phone" placeholder="Write Valid Number" name="phone">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="sub" class="form-label">Subject</label>
+                                                <input type="text" class="form-control" id="sub" placeholder="Write Subject" name="sub">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="mb-3 form-group">
+                                                <label for="msg" class="form-label">Message</label>
+                                                
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <button type="button" value="submit" class="btn sec-btn">Submit</button>
+                                        </div>
+                                    </div>
+                                
+                </div>
+            </div>
+
+
+            
+        </div>
+    </section>~~~~~~~0~][Add Pages]
+[1][2025/03/19 17:06:56][::1][pages][index][Pages]
+[1][2025/03/19 17:07:34][::1][pages][addPage][Add Pages]
+[1][2025/03/19 17:07:51][::1][pages][createPagecontact~Contact Info~<section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+                <div class="col-lg-8 pt-3 pt-sm-0">
+                    <h2>We love to hear from you</h2>
+                    <p>Call us to book a meetup or send us emails to request for service consultation.</p>
+                        
+                                    <div class="row ">
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="name" class="form-label">Name*</label>
+                                                <input type="text" class="form-control" id="name" placeholder="Write your name" name="name">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="mail" class="form-label">Your Email*</label>
+                                                <input type="email" class="form-control" id="mail" placeholder="name@youremail.com" name="email">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="phone" class="form-label">Phone Number*</label>
+                                                <input type="text" class="form-control" id="phone" placeholder="Write Valid Number" name="phone">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="sub" class="form-label">Subject</label>
+                                                <input type="text" class="form-control" id="sub" placeholder="Write Subject" name="sub">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="mb-3 form-group">
+                                                <label for="msg" class="form-label">Message</label>
+                                                
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <button type="button" value="submit" class="btn sec-btn">Submit</button>
+                                        </div>
+                                    </div>
+                                
+                </div>
+            </div>
+
+
+            
+        </div>
+    </section>~~~~~~~0~][Add Pages]
+[1][2025/03/19 17:07:51][::1][pages][index][Pages]
+[1][2025/03/19 17:08:33][::1][pages][editPage14][Edit Pages]
+[1][2025/03/19 17:08:36][::1][pages][index][Pages]
+[1][2025/03/19 17:08:39][::1][pages][editPage19][Edit Pages]
+[1][2025/03/19 17:11:21][::1][pages][editPage19~contact~Contact Info~<section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+                <div class="col-lg-8 pt-3 pt-sm-0">
+                    <h2>We love to hear from you</h2>
+                    <p>Call us to book a meetup or send us emails to request for service consultation.</p>
+                        
+                                    <div class="row ">
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="name" class="form-label">Name*</label>
+                                                <input type="text" class="form-control" id="name" placeholder="Write your name" name="name">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="mail" class="form-label">Your Email*</label>
+                                                <input type="email" class="form-control" id="mail" placeholder="name@youremail.com" name="email">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="phone" class="form-label">Phone Number*</label>
+                                                <input type="text" class="form-control" id="phone" placeholder="Write Valid Number" name="phone">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="sub" class="form-label">Subject</label>
+                                                <input type="text" class="form-control" id="sub" placeholder="Write Subject" name="sub">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="mb-3 form-group">
+                                                <label for="msg" class="form-label">Message</label>
+                                                
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <button type="button" value="submit" class="btn sec-btn">Submit</button>
+                                        </div>
+                                    </div>
+                                
+                </div>
+            </div>
+
+
+            
+        </div>
+    </section>~~~~~~~0~][Update Pages]
+[1][2025/03/19 17:11:21][::1][pages][index][Pages]
+[1][2025/03/19 17:11:34][::1][pages][editPage19][Edit Pages]
+[1][2025/03/19 17:12:24][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 17:12:32][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 17:12:32][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 17:13:30][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 17:13:33][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 17:13:33][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 17:13:34][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 17:13:34][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 17:13:34][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 17:13:35][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/19 17:13:39][::1][pages][index][Pages]
+[1][2025/03/19 17:13:41][::1][pages][editPage19][Edit Pages]
+[1][2025/03/19 17:13:50][::1][pages][editPage19~contact~Contact Info~<section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+                <div class="col-lg-8 pt-3 pt-sm-0">
+                    <h2>We love to hear from you</h2>
+                    <p>Call us to book a meetup or send us emails to request for service consultation.</p>
+                        
+                                    <div class="row ">
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="name" class="form-label">Name*</label>
+                                                <input type="text" class="form-control" id="name" placeholder="Write your name" name="name">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="mail" class="form-label">Your Email*</label>
+                                                <input type="email" class="form-control" id="mail" placeholder="name@youremail.com" name="email">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="phone" class="form-label">Phone Number*</label>
+                                                <input type="text" class="form-control" id="phone" placeholder="Write Valid Number" name="phone">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="sub" class="form-label">Subject</label>
+                                                <input type="text" class="form-control" id="sub" placeholder="Write Subject" name="sub">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="mb-3 form-group">
+                                                <label for="msg" class="form-label">Message</label>
+                                                
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <button type="button" value="submit" class="btn sec-btn">Submit</button>
+                                        </div>
+                                    </div>
+                                
+                </div>
+            </div>
+
+
+            
+        </div>
+    </section>~~~~~~~0~][Update Pages]
+[1][2025/03/19 17:13:50][::1][pages][index][Pages]
+[1][2025/03/19 17:14:18][::1][pages][editPage19][Edit Pages]
+[1][2025/03/19 17:14:25][::1][pages][editPage19~contact~Contact Info~<section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+                <div class="col-lg-8 pt-3 pt-sm-0">
+                    <h2>We love to hear from you</h2>
+                    <p>Call us to book a meetup or send us emails to request for service consultation.</p>
+                        
+                                    <div class="row ">
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="name" class="form-label">Name*</label>
+                                                <input type="text" class="form-control" id="name" placeholder="Write your name" name="name">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="mail" class="form-label">Your Email*</label>
+                                                <input type="email" class="form-control" id="mail" placeholder="name@youremail.com" name="email">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="phone" class="form-label">Phone Number*</label>
+                                                <input type="text" class="form-control" id="phone" placeholder="Write Valid Number" name="phone">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="sub" class="form-label">Subject</label>
+                                                <input type="text" class="form-control" id="sub" placeholder="Write Subject" name="sub">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="mb-3 form-group">
+                                                <label for="msg" class="form-label">Message</label>
+                                                
+                                            </div>
+                                        </div>
+                                        <textarea class="form-control" id="msg" name="msg" placeholder="Write Message" style="margin-top: 0px; padding: 0.375rem 0.75rem; font-size: 1rem; width: 855.987px; border: 1px solid rgb(206, 212, 218); color: rgb(33, 37, 41); height: 40px; outline: none; background-color: rgb(255, 255, 255); transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; min-height: calc(1.5em + 2px + 0.75rem);"></textarea><div class="col-md-12">
+                                            <button type="button" value="submit" class="btn sec-btn">Submit</button>
+                                        </div>
+                                    </div>
+                                
+                </div>
+            </div>
+
+
+            
+        </div>
+    </section>~~~~~~~~0~][Update Pages]
+[1][2025/03/19 17:14:25][::1][pages][index][Pages]
+[1][2025/03/19 17:14:37][::1][pages][editPage19][Edit Pages]
+[1][2025/03/19 17:14:54][::1][pages][index][Pages]
+[1][2025/03/19 17:15:54][::1][pages][editPage19][Edit Pages]
+[1][2025/03/19 17:16:19][::1][pages][index][Pages]
+[1][2025/03/19 17:16:22][::1][pages][editPage19][Edit Pages]
+[1][2025/03/19 17:16:51][::1][pages][editPage19][Edit Pages]
+[1][2025/03/19 17:17:25][::1][pages][editPage19~contact~Contact Info~<section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+                <div class="col-lg-8 pt-3 pt-sm-0">
+                    <h2>We love to hear from you</h2>
+                    <p>Call us to book a meetup or send us emails to request for service consultation.</p>
+                        
+                                    <div class="row ">
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="name" class="form-label">Name*</label>
+                                                <input type="text" class="form-control" id="name" placeholder="Write your name" name="name">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="mail" class="form-label">Your Email*</label>
+                                                <input type="email" class="form-control" id="mail" placeholder="name@youremail.com" name="email">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="phone" class="form-label">Phone Number*</label>
+                                                <input type="text" class="form-control" id="phone" placeholder="Write Valid Number" name="phone">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="sub" class="form-label">Subject</label>
+                                                <input type="text" class="form-control" id="sub" placeholder="Write Subject" name="sub">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="mb-3 form-group">
+                                                <label for="msg" class="form-label">Message</label>
+                                                
+                                            </div>
+                                        </div>
+                                        <textarea class="form-control" id="msg" name="msg" placeholder="Write Message" style="margin-top: 0px; padding: 0.375rem 0.75rem; font-size: 1rem; width: 855.987px; border: 1px solid rgb(206, 212, 218); color: rgb(33, 37, 41); height: 40px; outline: none; background-color: rgb(255, 255, 255); transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out; min-height: calc(1.5em + 2px + 0.75rem);">~~~~~~~~0~][Update Pages]
+[1][2025/03/19 17:17:25][::1][pages][index][Pages]
+[1][2025/03/19 17:17:39][::1][pages][editPage19][Edit Pages]
+[1][2025/03/19 17:22:12][::1][pages][editPage19~contact~Contact Info~
+    <section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+                <div class="col-lg-8 pt-3 pt-sm-0">
+                    <h2>We love to hear from you</h2>
+                    <p>Call us to book a meetup or send us emails to request for service consultation.</p>
+                        
+                                    <div class="row ">
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="name" class="form-label">Name*</label>
+                                                <input type="text" class="form-control" id="name" placeholder="Write your name" name="name">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="mail" class="form-label">Your Email*</label>
+                                                <input type="email" class="form-control" id="mail" placeholder="name@youremail.com" name="email">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="phone" class="form-label">Phone Number*</label>
+                                                <input type="text" class="form-control" id="phone" placeholder="Write Valid Number" name="phone">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="sub" class="form-label">Subject</label>
+                                                <input type="text" class="form-control" id="sub" placeholder="Write Subject" name="sub">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="mb-3 form-group">
+                                                <label for="msg" class="form-label">Message</label>
+                                                <input type="text" style="height:150px; " class="form-control" id="msg" name="msg" placeholder="Write Message">
+                                            </div>
+
+                                        </div>
+
+                                        <div class="col-md-12">
+                                            <button type="button" value="submit" class="btn sec-btn">Submit</button>
+                                        </div>
+                                    </div>
+                                
+                                </div>
+                            </div>
+
+
+            
+        </div>
+    </section>~~~~~~~~0~][Update Pages]
+[1][2025/03/19 17:22:12][::1][pages][index][Pages]
+[1][2025/03/19 17:28:22][::1][pages][index][Pages]
+[1][2025/03/19 17:28:34][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 17:28:38][::1][pages][index][Pages]
+[1][2025/03/19 17:28:45][::1][pages][editPage7][Edit Pages]
+[1][2025/03/19 17:28:49][::1][pages][index][Pages]
+[1][2025/03/19 17:33:17][::1][pages][index][Pages]

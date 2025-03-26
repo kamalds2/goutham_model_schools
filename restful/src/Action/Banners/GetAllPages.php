@@ -1,0 +1,27 @@
+<?php
+
+namespace App\Action\Banners;
+
+use App\Domain\Banners\Pages;
+use Psr\Http\Message\ResponseInterface;
+use Psr\Http\Message\ServerRequestInterface;
+
+final class GetAllPages
+{
+  private $pages;
+  public function __construct(Pages $pages)
+  {
+    $this->pages = $pages; 
+  }
+  public function __invoke(
+      ServerRequestInterface $request, 
+      ResponseInterface $response ,$args
+    ): ResponseInterface
+    {
+      $data = $request->getBody();
+      $data =(array) json_decode($data);
+      $pages = $this->pages->getAllPages($data);
+      $response->getBody()->write((string)json_encode($pages));
+      return $response->withHeader('Content-Type','application/json');
+    }
+}

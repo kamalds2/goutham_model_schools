@@ -1,0 +1,133 @@
+[1][2025/03/18 11:09:07][::1][pages][index][Pages]
+[1][2025/03/18 11:09:09][::1][pages][index][Pages]
+[1][2025/03/18 11:09:11][::1][pages][index][Pages]
+[1][2025/03/18 11:09:13][::1][pages][index][Pages]
+[1][2025/03/18 11:09:33][::1][pages][index][Pages]
+[1][2025/03/18 11:09:47][::1][pages][index][Pages]
+[1][2025/03/18 11:10:22][::1][pages][index][Pages]
+[1][2025/03/18 11:10:23][::1][pages][index][Pages]
+[1][2025/03/18 11:11:28][::1][pages][index][Pages]
+[1][2025/03/18 11:13:33][::1][pages][index][Pages]
+[1][2025/03/18 13:05:34][::1][menus][ajaxSaveMenu[{"id":2},{"id":1}]][Menu Updted Successfully]
+[1][2025/03/18 13:05:41][::1][menus][ajaxSaveMenu[{"id":1},{"id":2}]][Menu Updted Successfully]
+[1][2025/03/18 13:05:44][::1][menus][ajaxSaveMenu[{"id":2},{"id":1}]][Menu Updted Successfully]
+[1][2025/03/18 13:05:46][::1][menus][ajaxSaveMenu[{"id":2},{"id":1}]][Menu Updted Successfully]
+[1][2025/03/18 13:15:57][::1][menus][ajaxSaveMenu[{"label":"Contact","id":2},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/18 13:45:41][::1][menus][ajaxSaveMenu[{"label":"About Us","id":1},{"label":"Contact Us","id":3}]][Menu Updted Successfully]
+[1][2025/03/18 13:45:57][::1][menus][ajaxSaveMenu[{"label":"About Us","id":1},{"label":"Contact Us","id":3}]][Menu Updted Successfully]
+[1][2025/03/18 13:46:03][::1][menus][ajaxSaveMenu[{"label":"About Us","id":1},{"label":"Contact Us","id":3}]][Menu Updted Successfully]
+[1][2025/03/18 13:46:07][::1][menus][ajaxSaveMenu[{"label":"About Us","id":1},{"label":"Contact Us","id":3}]][Menu Updted Successfully]
+[1][2025/03/18 13:53:32][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/18 13:53:56][::1][menus][ajaxSaveMenu[{"label":"About Us","id":1},{"label":"Contact Us","id":3}]][Menu Updted Successfully]
+[1][2025/03/18 13:55:08][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/18 13:58:45][::1][menus][ajaxSaveMenu[{"label":"About Us","id":1},{"label":"Contact Us","id":3}]][Menu Updted Successfully]
+[1][2025/03/18 13:59:15][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/18 13:59:26][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/18 14:01:52][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/18 14:04:47][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/18 14:08:18][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/18 14:13:31][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/18 14:19:10][::1][pages][index][Pages]
+[1][2025/03/18 14:19:17][::1][pages][index][Pages]
+[1][2025/03/18 14:19:23][::1][pages][index][Pages]
+[1][2025/03/18 14:21:20][::1][pages][index][Pages]
+[1][2025/03/18 14:25:56][::1][pages][index][Pages]
+[1][2025/03/18 14:26:26][::1][pages][addPage][Add Pages]
+[1][2025/03/18 14:26:28][::1][pages][index][Pages]
+[1][2025/03/18 14:27:28][::1][pages][addPage][Add Pages]
+[1][2025/03/18 14:28:38][::1][pages][addPage][Add Pages]
+[1][2025/03/18 14:28:41][::1][pages][index][Pages]
+[1][2025/03/18 14:29:02][::1][pages][index][Pages]
+[1][2025/03/18 14:29:05][::1][pages][addPage][Add Pages]
+[1][2025/03/18 14:29:24][::1][pages][addPage][Add Pages]
+[1][2025/03/18 14:31:26][::1][pages][createPageabout~About GMS~<p><span style="margin: 0px; padding: 0px; font-weight: bolder; color: rgb(161, 57, 132); font-family: Roboto, sans-serif; font-size: 16px;">Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</span></p>~~GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.~0~about_img.jpg][Add Pages]
+[1][2025/03/18 14:31:26][::1][pages][index][Pages]
+[1][2025/03/18 14:32:39][::1][pages][addPage][Add Pages]
+[1][2025/03/18 14:38:07][::1][pages][index][Pages]
+[1][2025/03/18 14:38:09][::1][pages][editPage10][Edit Pages]
+[1][2025/03/18 14:42:28][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/18 14:42:56][::1][pages][editPage10~about~About GMS~<p><span style="margin: 0px; padding: 0px; font-weight: bolder; color: rgb(161, 57, 132); font-family: Roboto, sans-serif; font-size: 16px;">Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</span></p><p><span style="background-color: var(--tb-card-bg); font-size: var(--tb-body-font-size); font-weight: var(--tb-body-font-weight); text-align: var(--tb-body-text-align);">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</span></p>       <div class="col-lg-5">
+                     </div>~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/18 14:42:56][::1][pages][index][Pages]
+[1][2025/03/18 14:44:23][::1][pages][editPage10][Edit Pages]
+[1][2025/03/18 14:44:40][::1][pages][editPage10~about~About GMS~  <p style="color: #a13984;"><b>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</b></p>
+
+                        <p class="pt-3">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</p>~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/18 14:44:40][::1][pages][index][Pages]
+[1][2025/03/18 14:44:43][::1][pages][editPage10][Edit Pages]
+[1][2025/03/18 14:44:46][::1][pages][index][Pages]
+[1][2025/03/18 14:44:51][::1][pages][index][Pages]
+[1][2025/03/18 14:44:53][::1][pages][editPage7][Edit Pages]
+[1][2025/03/18 14:45:12][::1][pages][editPage7~EDUCATION THAT SPARKS CHANGE~<p><span style="color: rgb(85, 85, 85); font-family: Roboto, sans-serif; font-size: 16px;">Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</span></p>~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/18 14:45:12][::1][pages][index][Pages]
+[1][2025/03/18 14:46:12][::1][pages][index][Pages]
+[1][2025/03/18 14:46:14][::1][pages][editPage7][Edit Pages]
+[1][2025/03/18 14:46:18][::1][pages][index][Pages]
+[1][2025/03/18 14:46:41][::1][pages][editPage8][Edit Pages]
+[1][2025/03/18 14:46:50][::1][pages][editPage8~home~OUR UNIQUE LEARNING ENVIRONMENT~<p style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 10px 0px 30px; font-size: 16px; line-height: 30px; color: rgb(255, 255, 255); position: relative; font-family: Roboto, sans-serif; background-color: rgb(243, 243, 243);">Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p><p style="margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding: 10px 0px 30px; font-size: 16px; line-height: 30px; color: rgb(255, 255, 255); position: relative; font-family: Roboto, sans-serif; background-color: rgb(243, 243, 243);">Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>~unique_img.jpg, visitsectionimg.png~Go to success from strong foundations~~0~unique_img.jpg, visitsectionimg.png][Update Pages]
+[1][2025/03/18 14:46:50][::1][pages][index][Pages]
+[1][2025/03/18 14:46:52][::1][pages][editPage9][Edit Pages]
+[1][2025/03/18 14:47:05][::1][pages][editPage9~home~One Step away for bright future for your kid~<p><span style="color: rgb(85, 85, 85); font-family: Roboto, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);">The concept of Gowtham Educational Institutions is quality education at all spheres and preparation of a generation that's confident, courageous and capable of attaining success.</span></p>~visitsectionimg.png~Visit us today to explore Gowtham Model Schools !~~0~visitsectionimg.png][Update Pages]
+[1][2025/03/18 14:47:05][::1][pages][index][Pages]
+[1][2025/03/18 14:47:07][::1][pages][editPage9][Edit Pages]
+[1][2025/03/18 14:47:11][::1][pages][index][Pages]
+[1][2025/03/18 14:49:40][::1][pages][index][Pages]
+[1][2025/03/18 14:49:43][::1][pages][addPage][Add Pages]
+[1][2025/03/18 14:53:06][::1][pages][createPageabout~Vision&Mision~ <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5" style="border-radius: 100px;">
+                        <div>
+                            <h3>Vision</h3>
+                            <p>"Our vision is to create a world where every individual, regardless of their socio-economic background, has equal access to high-quality education. We strive to make education affordable for all, by providing innovative, sustainable, and inclusive learning environments that foster growth, creativity, and success. Our mission is to empower students to reach their full potential and become active, informed, and responsible citizens who contribute to a better future for all."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block">
+                            <i><img src="<?php echo THEMEURL;?>assets/img/five-elements-icon-1.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5 mb-xl-0" style="border-radius: 100px;">
+                        <div>
+                            <h3>Mission</h3>
+                            <p>Our mission is to provide affordable and accessible education that empowers all students to achieve their goals and realize their full potential. We are committed to creating a supportive and inclusive learning environment that fosters intellectual curiosity, critical thinking, and creativity. Through our innovative programs, experienced faculty, and modern facilities, we aim to equip our students with the knowledge, skills, and values they need to succeed in a rapidly changing world. We believe that education is a fundamental human right, and we strive to make it accessible to everyone, regardless of their financial means."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block">
+                            <i><img src="<?php echo THEMEURL;?>assets/img/five-elements-icon-2.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+            ~~~0~][Add Pages]
+[1][2025/03/18 14:53:06][::1][pages][index][Pages]
+[1][2025/03/18 14:53:16][::1][pages][addPage][Add Pages]
+[1][2025/03/18 14:53:43][::1][pages][createPageabout~Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA~<p><span style="color: rgb(85, 85, 85); font-family: Roboto, sans-serif; font-size: 16px; background-color: rgb(243, 243, 243);">Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA to participate in the discussion on "Innovation, Cross Border Collaboration and Entrepreneurship" at the Trident Nariman Point Hotel, Mumbai on November 6 , 2010. That was presided over by the President of United States of America, Mr. Barack Obama.</span></p>~~~0~chairmanusa.png][Add Pages]
+[1][2025/03/18 14:53:43][::1][pages][index][Pages]
+[1][2025/03/18 14:53:46][::1][pages][editPage12][Edit Pages]
+[1][2025/03/18 14:53:58][::1][pages][index][Pages]
+[1][2025/03/18 14:54:23][::1][pages][addPage][Add Pages]
+[1][2025/03/18 14:58:40][::1][pages][addPage][Add Pages]
+[1][2025/03/18 14:59:53][::1][pages][createPageabout~ Chairman Message~<p><i>My vision is to provide Quality Education at an affordable price. My vision has turned into the core policy of the Institution’s business model. It offers great value for money by providing constantly updated curriculum and also supplement its classroom teaching with technology aided tutelage.</i></p><h5 style="font-size: 1.13288rem;">Sri M. Venkatanarayana</h5><p class="m-0 p-0"><i>Founder &amp; Chairman</i></p>~~~0~chairmanimg.png, trainers_training.png][Add Pages]
+[1][2025/03/18 14:59:53][::1][pages][index][Pages]
+[1][2025/03/18 15:00:32][::1][pages][index][Pages]
+[1][2025/03/18 15:00:43][::1][pages][index][Pages]
+[1][2025/03/18 15:02:18][::1][pages][index][Pages]
+[1][2025/03/18 16:33:20][::1][pages][index][Pages]
+[1][2025/03/18 16:33:27][::1][pages][index][Pages]
+[1][2025/03/18 16:33:33][::1][pages][index][Pages]
+[1][2025/03/18 16:34:15][::1][pages][index][Pages]
+[1][2025/03/18 16:34:16][::1][pages][addPage][Add Pages]
+[1][2025/03/18 16:43:02][::1][pages][index][Pages]
+[1][2025/03/18 16:48:19][::1][pages][index][Pages]
+[1][2025/03/18 16:48:25][::1][pages][editPage10][Edit Pages]
+[1][2025/03/18 16:48:46][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/18 16:48:46][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/18 16:48:56][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/18 17:05:16][::1][pages][editPage10][Edit Pages]
+[1][2025/03/18 17:05:23][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/18 17:05:23][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/18 17:06:20][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/18 17:09:48][::1][pages][editPage10][Edit Pages]
+[1][2025/03/18 17:09:57][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/18 17:09:57][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/18 17:22:42][::1][pages][editPage10][Edit Pages]
+[1][2025/03/18 17:23:34][::1][pages][index][Pages]
+[1][2025/03/18 17:24:13][::1][pages][editPage10][Edit Pages]
+[1][2025/03/18 17:30:25][::1][pages][index][Pages]

@@ -1,0 +1,1825 @@
+[1][2025/03/20 09:33:27][::1][pages][index][Pages]
+[1][2025/03/20 09:33:28][::1][pages][index][Pages]
+[1][2025/03/20 09:33:31][::1][pages][index][Pages]
+[1][2025/03/20 09:35:56][::1][menus][ajaxSaveMenu[{"label":"Home","id":5},{"label":"About Us","id":1},{"label":"Contact Us","id":3},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6}]][Menu Updted Successfully]
+[1][2025/03/20 09:37:44][::1][menus][ajaxSaveMenu[{"label":"Home","id":5},{"label":"About Us","id":1},{"label":"Contact Us","id":3},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7}]][Menu Updted Successfully]
+[1][2025/03/20 09:38:41][::1][menus][ajaxSaveMenu[{"label":"Home","id":5},{"label":"About Us","id":1},{"label":"Contact Us","id":3},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 09:42:29][::1][pages][index][Pages]
+[1][2025/03/20 09:42:32][::1][pages][editPage7][Edit Pages]
+[1][2025/03/20 09:43:55][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~<div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General & Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="about.html" class="sec-btn">Know More</a>
+                    </div>
+                ~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/20 09:43:55][::1][pages][index][Pages]
+[1][2025/03/20 09:44:11][::1][pages][editPage7][Edit Pages]
+[1][2025/03/20 09:44:59][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~<div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="http://localhost/GouthamSchool/pages/pagedetails/contact" class="sec-btn">Know More</a>
+                    </div>
+                ~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/20 09:44:59][::1][pages][index][Pages]
+[1][2025/03/20 09:45:09][::1][pages][editPage7][Edit Pages]
+[1][2025/03/20 09:45:23][::1][pages][editPage7~home~EDUCATION THAT SPARKS CHANGE~<div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General & Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="http://localhost/GouthamSchool/pages/pagedetails/contact" class="sec-btn">Know More</a>
+                    </div>
+                ~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/20 09:45:23][::1][pages][index][Pages]
+[1][2025/03/20 09:45:35][::1][pages][editPage17][Edit Pages]
+[1][2025/03/20 09:45:59][::1][pages][editPage17~home~One Step away for bright future for your kid~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>One Step away for bright future for your kid</p>
+                        <h2 class="about-sec pb-0">Visit us today to explore Gowtham Model Schools!</h2>
+                    </div>
+                    <div>
+                        <p>The concept of Gowtham Educational Institutions is quality education at all spheres and preparation of a generation that's confident, courageous and capable of attaining success.</p>
+                        
+                        <a href="contact.html" class="sec-btn mt-3">Contact Us</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="provide-img"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/visitsectionimg_5346225632.png"><br></div>
+                </div>
+                
+            </div>
+        </div>
+    </section>~visitsectionimg.png~Visit us today to explore Gowtham Model Schools !~~0~visitsectionimg.png][Update Pages]
+[1][2025/03/20 09:45:59][::1][pages][index][Pages]
+[1][2025/03/20 09:46:41][::1][pages][editPage7][Edit Pages]
+[1][2025/03/20 09:46:45][::1][pages][index][Pages]
+[1][2025/03/20 09:46:48][::1][pages][editPage8][Edit Pages]
+[1][2025/03/20 09:46:51][::1][pages][index][Pages]
+[1][2025/03/20 09:47:32][::1][pages][editPage17][Edit Pages]
+[1][2025/03/20 09:47:52][::1][pages][editPage17~home~One Step away for bright future for your kid~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>One Step away for bright future for your kid</p>
+                        <h2 class="about-sec pb-0">Visit us today to explore Gowtham Model Schools!</h2>
+                    </div>
+                    <div>
+                        <p>The concept of Gowtham Educational Institutions is quality education at all spheres and preparation of a generation that's confident, courageous and capable of attaining success.</p>
+                        
+                        <a href="http://localhost/GouthamSchool/pages/pagedetails/contact" class="sec-btn mt-3">Contact Us</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="provide-img"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/visitsectionimg_5346225632.png"><br></div>
+                </div>
+                
+            </div>
+        </div>
+    </section>~visitsectionimg.png~Visit us today to explore Gowtham Model Schools !~~0~visitsectionimg.png][Update Pages]
+[1][2025/03/20 09:47:52][::1][pages][index][Pages]
+[1][2025/03/20 09:48:21][::1][pages][editPage9][Edit Pages]
+[1][2025/03/20 09:48:24][::1][pages][index][Pages]
+[1][2025/03/20 09:48:27][::1][pages][index][Pages]
+[1][2025/03/20 09:48:30][::1][pages][editPage19][Edit Pages]
+[1][2025/03/20 09:48:34][::1][pages][index][Pages]
+[1][2025/03/20 09:48:36][::1][pages][editPage14][Edit Pages]
+[1][2025/03/20 09:48:46][::1][pages][editPage14~contact~Contact Us~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="index.html">Home</a> <i class="far fa-circle"></i> Contact Us</p>
+                    <h2>Contact Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 09:48:46][::1][pages][index][Pages]
+[1][2025/03/20 09:49:14][::1][pages][editPage19][Edit Pages]
+[1][2025/03/20 09:49:17][::1][pages][index][Pages]
+[1][2025/03/20 09:49:19][::1][pages][editPage14][Edit Pages]
+[1][2025/03/20 09:49:29][::1][pages][editPage14~contact~Contact Us~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="index">Home</a> <i class="far fa-circle"></i> Contact Us</p>
+                    <h2>Contact Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 09:49:29][::1][pages][index][Pages]
+[1][2025/03/20 09:50:11][::1][pages][editPage14][Edit Pages]
+[1][2025/03/20 09:50:28][::1][pages][editPage14~contact~Contact Us~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="http://localhost/GouthamSchool/index">Home</a> <i class="far fa-circle"></i> Contact Us</p>
+                    <h2>Contact Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 09:50:28][::1][pages][index][Pages]
+[1][2025/03/20 09:56:22][::1][pages][editPage14][Edit Pages]
+[1][2025/03/20 09:56:25][::1][pages][index][Pages]
+[1][2025/03/20 09:56:27][::1][pages][editPage19][Edit Pages]
+[1][2025/03/20 10:02:07][::1][pages][editPage19~contact~Contact Info~    <section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+                <div class="col-lg-8 pt-3 pt-sm-0">
+                    <h2>We love to hear from you</h2>
+                    <p>Call us to book a meetup or send us emails to request for service consultation.</p>
+                        
+                                    <div class="row ">
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+
+                                                <label for="name" class="form-label">Name*</label>
+                                                <input type="text" class="form-control" id="name" placeholder="Write your name" name="name">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="mail" class="form-label">Your Email*</label>
+                                                <input type="email" class="form-control" id="mail" placeholder="name@youremail.com" name="email">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="phone" class="form-label">Phone Number*</label>
+                                                <input type="text" class="form-control" id="phone" placeholder="Write Valid Number" name="phone">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="mb-3 form-group">
+                                                <label for="sub" class="form-label">Subject</label>
+                                                <input type="text" class="form-control" id="sub" placeholder="Write Subject" name="sub">
+                                            </div>
+                                        </div>
+                                        <div class="col-md-12">
+                                            <div class="mb-3 form-group">
+                                                <label for="msg" class="form-label">Message</label>
+                                                <input type="text" style="height:150px; " class="form-control" id="msg" name="msg" placeholder="Write Message">
+                                            </div>
+
+                                        </div>
+
+                                        <div class="col-md-12">
+                                            <button type="submit" value="submit" class="btn sec-btn"><a href="http://localhost/GouthamSchool/pages/pagedetails/contact"></a>Submit</button>
+                                        </div>
+                                    </div>
+                                
+                                </div>
+                            </div>
+
+
+            
+        </div>
+    </section>~~~~~~~~0~][Update Pages]
+[1][2025/03/20 10:02:07][::1][pages][index][Pages]
+[1][2025/03/20 10:18:19][::1][pages][index][Pages]
+[1][2025/03/20 10:24:39][::1][pages][index][Pages]
+[1][2025/03/20 10:25:26][::1][pages][editPage7][Edit Pages]
+[1][2025/03/20 10:25:58][::1][pages][editPage7~home~Home~<div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General & Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="http://localhost/GouthamSchool/pages/pagedetails/contact" class="sec-btn">Know More</a>
+                    </div>
+                ~about-1.jpg, about-2.jpg, about-3.jpg~Imagine, Invent, create, Explore, Implement and Inspire in GMSss~~0~about-1.jpg, about-2.jpg, about-3.jpg][Update Pages]
+[1][2025/03/20 10:25:58][::1][pages][index][Pages]
+[1][2025/03/20 10:28:17][::1][pages][index][Pages]
+[1][2025/03/20 10:28:20][::1][pages][editPage9][Edit Pages]
+[1][2025/03/20 10:28:39][::1][pages][index][Pages]
+[1][2025/03/20 10:28:51][::1][pages][editPage9][Edit Pages]
+[1][2025/03/20 10:29:38][::1][pages][index][Pages]
+[1][2025/03/20 13:08:10][::1][menus][ajaxSaveMenu[{"label":"Contact","id":2},{"label":"Home","id":3},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/20 13:08:16][::1][menus][ajaxSaveMenu[{"label":"Home","id":3},{"label":"Contact","id":2},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/20 13:21:13][::1][menus][ajaxSaveMenu[{"label":"Home","id":3},{"label":"Contact","id":2},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/20 13:21:14][::1][menus][ajaxSaveMenu[{"label":"Home","id":3},{"label":"Contact","id":2},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/20 13:25:33][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"Home","id":5},{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 13:25:34][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"Home","id":5},{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 13:25:34][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"Home","id":5},{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 13:25:56][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"Home","id":5},{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 13:29:39][::1][menus][ajaxSaveMenu[{"label":"Home","id":3},{"label":"Contact","id":2},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/20 13:30:02][::1][menus][ajaxSaveMenu[{"label":"Home","id":3},{"label":"Contact","id":2},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/20 13:36:54][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"Home","id":5},{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 14:20:13][::1][menus][ajaxSaveMenu[{"label":"Home","id":3},{"label":"Contact","id":2},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/20 14:20:13][::1][menus][ajaxSaveMenu[{"label":"Home","id":5},{"label":"Contact Us","id":3},{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 14:20:51][::1][menus][ajaxSaveMenu[{"label":"Home","id":3},{"label":"Contact","id":2},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/20 14:20:51][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"Home","id":5},{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 15:12:58][::1][menus][ajaxSaveMenu[{"label":"Home","id":3},{"label":"Contact","id":2},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/20 15:12:59][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"Home","id":5},{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 15:13:05][::1][menus][ajaxSaveMenu[{"label":"Home","id":5},{"label":"Contact Us","id":3},{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 15:13:05][::1][menus][ajaxSaveMenu[{"label":"Home","id":3},{"label":"Contact","id":2},{"label":"About Us","id":1}]][Menu Updted Successfully]
+[1][2025/03/20 15:18:48][::1][menus][ajaxSaveMenu[{"label":"Contact Us","id":3},{"label":"Home","id":5},{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 15:19:01][::1][menus][ajaxSaveMenu[{"label":"Home","id":5},{"label":"Contact Us","id":3},{"label":"About Us","id":1},{"label":"Teachers Login","id":4},{"label":"Student Login","id":6},{"label":"Parents Login","id":7},{"label":"Online Payment","id":8}]][Menu Updted Successfully]
+[1][2025/03/20 15:23:12][::1][pages][index][Pages]
+[1][2025/03/20 15:23:15][::1][pages][addPage][Add Pages]
+[1][2025/03/20 15:23:30][::1][pages][addPage][Add Pages]
+[1][2025/03/20 15:23:37][::1][pages][addPage][Add Pages]
+[1][2025/03/20 15:24:36][::1][pages][addPage][Add Pages]
+[1][2025/03/20 15:25:09][::1][pages][addPage][Add Pages]
+[1][2025/03/20 15:30:18][::1][pages][addPage][Add Pages]
+[1][2025/03/20 15:32:41][::1][pages][addPage][Add Pages]
+[1][2025/03/20 15:33:35][::1][pages][addPage][Add Pages]
+[1][2025/03/20 15:37:20][::1][pages][createPagehome~Home~ <section class="gap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-1_8984212559.jpg"><figure class="one"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-2_3780945320.jpg"><figure class="two"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-3_4375043617.jpg"><figure class="three"><br></figure>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>Imagine, Invent, create, Explore, Implement and Inspire in GMS</p>
+                        <h2 class="about-sec">EDUCATION THAT SPARKS CHANGE </h2>
+                    </div>
+                    <div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="about.html" class="sec-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            
+            
+            <div class="trainers_training" style="background-image: url(assets/img/trainers_training.png);"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/unique_img_5728131726.jpg">
+                <div class="text-sec">
+                    <h5>OUR UNIQUE LEARNING ENVIRONMENT</h5>
+                    <h2>Go to success from strong foundations</h2>
+                    <p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>
+                    <a href="contact.html" class="sec-btn-green">Visit Now</a>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Add Pages]
+[1][2025/03/20 15:37:20][::1][pages][index][Pages]
+[1][2025/03/20 15:40:20][::1][pages][editPage7][Edit Pages]
+[1][2025/03/20 15:40:25][::1][pages][index][Pages]
+[1][2025/03/20 15:41:32][::1][pages][index][Pages]
+[1][2025/03/20 15:41:34][::1][pages][editPage7][Edit Pages]
+[1][2025/03/20 15:41:38][::1][pages][index][Pages]
+[1][2025/03/20 15:41:40][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 15:41:40][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 15:42:06][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 15:42:14][::1][pages][editPage20~home~Home~ <section class="gap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-1_8984212559.jpg"><figure class="one"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-2_3780945320.jpg"><figure class="two"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-3_4375043617.jpg"><figure class="three"><br></figure>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>Imagine, Invent, create, Explore, Implement and Inspire in GMS</p>
+                        <h2 class="about-sec">EDUCATION THAT SPARKS CHANGE </h2>
+                    </div>
+                    <div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General & Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="about.html" class="sec-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            
+            
+            <div class="trainers_training" style="background-image: url(assets/img/trainers_training.png);"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/unique_img_5728131726.jpg" alt="" style="width: 25%;">
+                <div class="text-sec">
+                    <h5>OUR UNIQUE LEARNING ENVIRONMENT</h5>
+                    <h2>Go to success from strong foundations</h2>
+                    <p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>
+                    <a href="contact.html" class="sec-btn-green">Visit Now</a>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 15:42:14][::1][pages][index][Pages]
+[1][2025/03/20 15:42:26][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 15:42:26][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 15:43:38][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 15:43:41][::1][pages][editPage20~home~Home~ <section class="gap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-1_8984212559.jpg"><figure class="one"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-2_3780945320.jpg"><figure class="two"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-3_4375043617.jpg"><figure class="three"><br></figure>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>Imagine, Invent, create, Explore, Implement and Inspire in GMS</p>
+                        <h2 class="about-sec">EDUCATION THAT SPARKS CHANGE </h2>
+                    </div>
+                    <div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General & Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="about.html" class="sec-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            
+            
+            <div class="trainers_training" style="background-image: url(assets/img/trainers_training.png);"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/unique_img_5728131726.jpg" style="width: 25%;" alt="">
+                <div class="text-sec">
+                    <h5>OUR UNIQUE LEARNING ENVIRONMENT</h5>
+                    <h2>Go to success from strong foundations</h2>
+                    <p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>
+                    <a href="contact.html" class="sec-btn-green">Visit Now</a>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 15:43:41][::1][pages][index][Pages]
+[1][2025/03/20 15:44:17][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 15:44:17][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 15:44:30][::1][pages][editPage20~home~Home~ <section class="gap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-1_8984212559.jpg" style="width: 50%;"><figure class="one"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-2_3780945320.jpg"><figure class="two"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-3_4375043617.jpg" style="width: 50%;"><figure class="three"><br></figure>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>Imagine, Invent, create, Explore, Implement and Inspire in GMS</p>
+                        <h2 class="about-sec">EDUCATION THAT SPARKS CHANGE </h2>
+                    </div>
+                    <div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="about.html" class="sec-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            
+            
+            <div class="trainers_training" style="background-image: url(assets/img/trainers_training.png);"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/unique_img_5728131726.jpg" style="width: 25%;" alt="">
+                <div class="text-sec">
+                    <h5>OUR UNIQUE LEARNING ENVIRONMENT</h5>
+                    <h2>Go to success from strong foundations</h2>
+                    <p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>
+                    <a href="contact.html" class="sec-btn-green">Visit Now</a>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 15:44:30][::1][pages][index][Pages]
+[1][2025/03/20 15:44:46][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 15:44:46][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 15:44:56][::1][pages][editPage20~home~Home~ <section class="gap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-1_8984212559.jpg" style="width: 100%;"><figure class="one"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-2_3780945320.jpg"><figure class="two"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-3_4375043617.jpg" style="width: 25%;"><figure class="three"><br></figure>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>Imagine, Invent, create, Explore, Implement and Inspire in GMS</p>
+                        <h2 class="about-sec">EDUCATION THAT SPARKS CHANGE </h2>
+                    </div>
+                    <div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="about.html" class="sec-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            
+            
+            <div class="trainers_training" style="background-image: url(assets/img/trainers_training.png);"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/unique_img_5728131726.jpg" style="width: 25%;" alt="">
+                <div class="text-sec">
+                    <h5>OUR UNIQUE LEARNING ENVIRONMENT</h5>
+                    <h2>Go to success from strong foundations</h2>
+                    <p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>
+                    <a href="contact.html" class="sec-btn-green">Visit Now</a>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 15:44:56][::1][pages][index][Pages]
+[1][2025/03/20 15:45:07][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 15:45:07][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 15:45:14][::1][pages][editPage20~home~Home~ <section class="gap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-1_8984212559.jpg" style="width: 100%;"><figure class="one"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-2_3780945320.jpg"><figure class="two"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-3_4375043617.jpg" style="width: 50%;"><figure class="three"><br></figure>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>Imagine, Invent, create, Explore, Implement and Inspire in GMS</p>
+                        <h2 class="about-sec">EDUCATION THAT SPARKS CHANGE </h2>
+                    </div>
+                    <div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="about.html" class="sec-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            
+            
+            <div class="trainers_training" style="background-image: url(assets/img/trainers_training.png);"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/unique_img_5728131726.jpg" style="width: 25%;" alt="">
+                <div class="text-sec">
+                    <h5>OUR UNIQUE LEARNING ENVIRONMENT</h5>
+                    <h2>Go to success from strong foundations</h2>
+                    <p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>
+                    <a href="contact.html" class="sec-btn-green">Visit Now</a>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 15:45:14][::1][pages][index][Pages]
+[1][2025/03/20 15:45:23][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 15:45:24][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 15:45:30][::1][pages][editPage20~home~Home~ <section class="gap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-1_8984212559.jpg" style="width: 50%;"><figure class="one"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-2_3780945320.jpg"><figure class="two"><br></figure>
+                        <img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about-3_4375043617.jpg" style="width: 50%;"><figure class="three"><br></figure>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>Imagine, Invent, create, Explore, Implement and Inspire in GMS</p>
+                        <h2 class="about-sec">EDUCATION THAT SPARKS CHANGE </h2>
+                    </div>
+                    <div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="about.html" class="sec-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            
+            
+            <div class="trainers_training" style="background-image: url(assets/img/trainers_training.png);"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/unique_img_5728131726.jpg" style="width: 25%;" alt="">
+                <div class="text-sec">
+                    <h5>OUR UNIQUE LEARNING ENVIRONMENT</h5>
+                    <h2>Go to success from strong foundations</h2>
+                    <p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>
+                    <a href="contact.html" class="sec-btn-green">Visit Now</a>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 15:45:30][::1][pages][index][Pages]
+[1][2025/03/20 15:45:40][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 15:45:40][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 15:47:39][::1][pages][editPage20~home~Home~ <section class="gap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <figure class="one">
+                            <img alt="img" class="provide-img-one" src="http://localhost/GouthamSchool/uploads/pages/about-1_8984212559.jpg">
+                        </figure>
+                        <figure class="two">
+                            <img alt="img" class="provide-img-two" src="http://localhost/GouthamSchool/uploads/pages/about-2_3780945320.jpg">
+                        </figure>
+                        <figure class="three">
+                            <img alt="img" class="provide-img-three" src="http://localhost/GouthamSchool/uploads/pages/about-3_4375043617.jpg">
+                        </figure>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>Imagine, Invent, create, Explore, Implement and Inspire in GMS</p>
+                        <h2 class="about-sec">EDUCATION THAT SPARKS CHANGE </h2>
+                    </div>
+                    <div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="about.html" class="sec-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            
+            
+            <div class="trainers_training" style="background-image: url(assets/img/trainers_training.png);"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/unique_img_5728131726.jpg" style="width: 25%;" alt="">
+                <div class="text-sec">
+                    <h5>OUR UNIQUE LEARNING ENVIRONMENT</h5>
+                    <h2>Go to success from strong foundations</h2>
+                    <p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>
+                    <a href="contact.html" class="sec-btn-green">Visit Now</a>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 15:47:39][::1][pages][index][Pages]
+[1][2025/03/20 15:48:01][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 15:48:02][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 15:49:07][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 15:49:09][::1][pages][editPage20~home~Home~ <section class="gap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <figure class="one">
+                            <img alt="img" class="provide-img-one" src="http://localhost/GouthamSchool/uploads/pages/about-1_8984212559.jpg">
+                        </figure>
+                        <figure class="two">
+                            <img alt="img" class="provide-img-two" src="http://localhost/GouthamSchool/uploads/pages/about-2_3780945320.jpg">
+                        </figure>
+                        <figure class="three">
+                            <img alt="img" class="provide-img-three" src="http://localhost/GouthamSchool/uploads/pages/about-3_4375043617.jpg">
+                        </figure>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>Imagine, Invent, create, Explore, Implement and Inspire in GMS</p>
+                        <h2 class="about-sec">EDUCATION THAT SPARKS CHANGE </h2>
+                    </div>
+                    <div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="http://localhost/GouthamSchool/pages/pagedetails/about" class="sec-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            
+            
+            <div class="trainers_training" style="background-image: url(assets/img/trainers_training.png);"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/unique_img_5728131726.jpg" style="width: 25%;" alt="">
+                <div class="text-sec">
+                    <h5>OUR UNIQUE LEARNING ENVIRONMENT</h5>
+                    <h2>Go to success from strong foundations</h2>
+                    <p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>
+                    <a href="http://localhost/GouthamSchool/pages/pagedetails/contact" class="sec-btn-green">Visit Now</a>
+                </div>
+            </div>
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 15:49:09][::1][pages][index][Pages]
+[1][2025/03/20 15:50:01][::1][pages][deletePage7][Delete Pages]
+[1][2025/03/20 15:50:01][::1][pages][index][Pages]
+[1][2025/03/20 15:50:14][::1][pages][deletePage8][Delete Pages]
+[1][2025/03/20 15:50:14][::1][pages][index][Pages]
+[1][2025/03/20 16:07:36][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 16:07:37][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 16:08:29][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 16:08:30][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 16:08:30][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 16:08:30][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 16:08:30][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 16:08:31][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 16:08:43][::1][pages][index][Pages]
+[1][2025/03/20 16:08:47][::1][pages][editPage17][Edit Pages]
+[1][2025/03/20 16:09:28][::1][pages][index][Pages]
+[1][2025/03/20 16:09:31][::1][pages][editPage9][Edit Pages]
+[1][2025/03/20 16:12:26][::1][pages][index][Pages]
+[1][2025/03/20 16:12:29][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 16:12:29][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 16:12:44][::1][pages][editPage20~home~Home~ <section class="gap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <figure class="one">
+                            <img alt="img" class="provide-img-one" src="http://localhost/GouthamSchool/uploads/pages/about-1_8984212559.jpg">
+                        </figure>
+                        <figure class="two">
+                            <img alt="img" class="provide-img-two" src="http://localhost/GouthamSchool/uploads/pages/about-2_3780945320.jpg">
+                        </figure>
+                        <figure class="three">
+                            <img alt="img" class="provide-img-three" src="http://localhost/GouthamSchool/uploads/pages/about-3_4375043617.jpg">
+                        </figure>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>Imagine, Invent, create, Explore, Implement and Inspire in GMS</p>
+                        <h2 class="about-sec">EDUCATION THAT SPARKS CHANGE </h2>
+                    </div>
+                    <div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General & Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="http://localhost/GouthamSchool/pages/pagedetails/about" class="sec-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            
+            
+            <div class="trainers_training" style="background-image: url(assets/img/trainers_training.png);"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/unique_img_5728131726.jpg" style="width: 25%;" alt="">
+                <div class="text-sec">
+                    <h5>OUR UNIQUE LEARNING ENVIRONMENT</h5>
+                    <h2>Go to success from strong foundations</h2>
+                    <p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>
+                    <a href="http://localhost/GouthamSchool/pages/pagedetails/contact" class="sec-btn-green">Visit Now</a>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap position-relative">
+        <div class="container">
+            <div class="heading">
+                <h5>The concept of Gowtham Educational is quality education.</h5>
+                <h2 class="pb-70">FACILITIES AT GMS</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                            <h3>Science Labs</h3>
+                            <p>GMS believes that, students should have sound practical training to substantiate theoretical ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_2960203961.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                            <h3>Digital classrooms</h3>
+                            <p>The growth and development of the social structure, the scientific advancements are all the resuls ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_1136066714.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                           <h3>Large Sports Campus</h3>
+                            <p>Sports are not an alternative but the most essential aspect of education. It is a lesson on team..</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-3_2122290868.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Modern Library</h3>
+                            <p>At GMS, the library has a very good collection of books on various topics, excellent study materials ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-4_6607767981.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Computer Labs</h3>
+                            <p>The world is shrinking and coming together through technological development made in the field of ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-5_3863123198.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Extra Curricular</h3>
+                            <p>Students come to learn but at times they teach us many new things. At GMS, students...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-6_4171852044.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>One Step away for bright future for your kid</p>
+                        <h2 class="about-sec pb-0">Visit us today to explore Gowtham Model Schools!</h2>
+                    </div>
+                    <div>
+                        <p>The concept of Gowtham Educational Institutions is quality education at all spheres and preparation of a generation that's confident, courageous and capable of attaining success.</p>
+                        
+                        <a href=" http://localhost/GouthamSchool/pages/pagedetails/contact" class="sec-btn mt-3">Contact Us</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <img alt="img" class="provide-img-one" src=" http://localhost/GouthamSchool/uploads/pages/visitsectionimg_5346225632.png">
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>~~0~][Update Pages]
+[1][2025/03/20 16:12:44][::1][pages][index][Pages]
+[1][2025/03/20 16:15:10][::1][pages][index][Pages]
+[1][2025/03/20 16:15:14][::1][pages][deletePage9][Delete Pages]
+[1][2025/03/20 16:15:14][::1][pages][index][Pages]
+[1][2025/03/20 16:15:17][::1][pages][deletePage17][Delete Pages]
+[1][2025/03/20 16:15:17][::1][pages][index][Pages]
+[1][2025/03/20 16:15:19][::1][pages][index][Pages]
+[1][2025/03/20 16:16:18][::1][pages][addPage][Add Pages]
+[1][2025/03/20 16:16:25][::1][pages][index][Pages]
+[1][2025/03/20 16:17:06][::1][pages][index][Pages]
+[1][2025/03/20 16:17:17][::1][pages][index][Pages]
+[1][2025/03/20 16:17:19][::1][pages][index][Pages]
+[1][2025/03/20 16:18:14][::1][pages][index][Pages]
+[1][2025/03/20 16:18:16][::1][pages][editPage14][Edit Pages]
+[1][2025/03/20 16:18:21][::1][pages][index][Pages]
+[1][2025/03/20 16:18:23][::1][pages][editPage19][Edit Pages]
+[1][2025/03/20 16:19:27][::1][pages][index][Pages]
+[1][2025/03/20 16:19:29][::1][pages][editPage19][Edit Pages]
+[1][2025/03/20 16:19:35][::1][pages][index][Pages]
+[1][2025/03/20 16:20:08][::1][pages][index][Pages]
+[1][2025/03/20 16:20:11][::1][pages][editPage10][Edit Pages]
+[1][2025/03/20 16:20:18][::1][pages][editPage10~about~section1~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="http://localhost/GouthamSchool/index">Home</a> <i class="far fa-circle"></i> About Us</p>
+                    <h2>About Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+            <div class="row ">
+                
+                <div class="col-lg-7">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec">About GMS</h2>
+                    </div>
+                    <div>
+                        <p style="color: #a13984;"><b>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General & Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</b></p>
+
+                        <p class="pt-3">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</p>
+                        
+                        
+                    </div>
+                </div>
+                <div class="col-lg-5"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about_img_4866609541.jpg"><br></div>
+            </div>
+
+
+            <div class="row gap mb-0 pb-0">
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5" style="border-radius: 100px;">
+                        <div>
+                            <h3>Vision</h3>
+                            <p>"Our vision is to create a world where every individual, regardless of their socio-economic background, has equal access to high-quality education. We strive to make education affordable for all, by providing innovative, sustainable, and inclusive learning environments that foster growth, creativity, and success. Our mission is to empower students to reach their full potential and become active, informed, and responsible citizens who contribute to a better future for all."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_1507804091.png"><br></div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5 mb-xl-0" style="border-radius: 100px;">
+                        <div>
+                            <h3>Mission</h3>
+                            <p>Our mission is to provide affordable and accessible education that empowers all students to achieve their goals and realize their full potential. We are committed to creating a supportive and inclusive learning environment that fosters intellectual curiosity, critical thinking, and creativity. Through our innovative programs, experienced faculty, and modern facilities, we aim to equip our students with the knowledge, skills, and values they need to succeed in a rapidly changing world. We believe that education is a fundamental human right, and we strive to make it accessible to everyone, regardless of their financial means."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_951535011.png"><br></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/20 16:20:18][::1][pages][index][Pages]
+[1][2025/03/20 16:20:21][::1][pages][editPage13][Edit Pages]
+[1][2025/03/20 16:20:33][::1][pages][editPage13~about~section3~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="trainers_training d-lg-flex align-items-center" style="background-image: url(http://localhost/GouthamSchool/uploads/pages/trainers_training.png);"> <img src="http://localhost/GouthamSchool/uploads/pages/chairmanimg_6503590912.png">
+                <div class="text-sec">
+                    <h2>Chairman Message</h2>
+                    <p><i>My vision is to provide Quality Education at an affordable price. My vision has turned into the core policy of the Institution’s business model. It offers great value for money by providing constantly updated curriculum and also supplement its classroom teaching with technology aided tutelage.</i></p>
+                    
+                    <h5>Sri M. Venkatanarayana</h5>
+                    <p class="m-0 p-0"><i>Founder & Chairman</i></p>
+                </div>
+            </div>
+        </div>
+    </section>~trainers_training.png~~~0~trainers_training.png][Update Pages]
+[1][2025/03/20 16:20:33][::1][pages][index][Pages]
+[1][2025/03/20 16:20:36][::1][pages][editPage12][Edit Pages]
+[1][2025/03/20 16:20:44][::1][pages][index][Pages]
+[1][2025/03/20 16:21:19][::1][pages][editPage13][Edit Pages]
+[1][2025/03/20 16:21:22][::1][pages][index][Pages]
+[1][2025/03/20 16:22:38][::1][pages][editPage13][Edit Pages]
+[1][2025/03/20 16:22:41][::1][pages][index][Pages]
+[1][2025/03/20 16:22:45][::1][pages][editPage12][Edit Pages]
+[1][2025/03/20 16:22:49][::1][pages][index][Pages]
+[1][2025/03/20 16:23:47][::1][pages][editPage12][Edit Pages]
+[1][2025/03/20 16:23:52][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 16:24:23][::1][pages][editPage12~about~Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA~ <section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-9">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec pb-0 w-100">Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA</h2>
+                    </div>
+                    <div>
+                        <p>Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA to participate in the discussion on "Innovation, Cross Border Collaboration and Entrepreneurship" at the Trident Nariman Point Hotel, Mumbai on November 6 , 2010. That was presided over by the President of United States of America, Mr. Barack Obama.</p>
+                    </div>
+                </div>
+                <div class="col-md-3"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/chairmanusa_7284496620.png"><br></div>
+                
+            </div>
+        </div>
+    </section>~chairmanusa.png~~~0~chairmanusa.png][Update Pages]
+[1][2025/03/20 16:24:23][::1][pages][index][Pages]
+[1][2025/03/20 16:24:42][::1][pages][editPage12][Edit Pages]
+[1][2025/03/20 16:24:50][::1][pages][editPage12~about~section2~ <section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-9">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec pb-0 w-100">Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA</h2>
+                    </div>
+                    <div>
+                        <p>Sri M. Venkatanarayana was one among the 21 Social Entrepreneurs invited by Consul General of USA to participate in the discussion on "Innovation, Cross Border Collaboration and Entrepreneurship" at the Trident Nariman Point Hotel, Mumbai on November 6 , 2010. That was presided over by the President of United States of America, Mr. Barack Obama.</p>
+                    </div>
+                </div>
+                <div class="col-md-3"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/chairmanusa_7284496620.png"><br></div>
+                
+            </div>
+        </div>
+    </section>~chairmanusa.png~~~0~chairmanusa.png][Update Pages]
+[1][2025/03/20 16:24:50][::1][pages][index][Pages]
+[1][2025/03/20 16:25:58][::1][pages][index][Pages]
+[1][2025/03/20 16:26:07][::1][pages][index][Pages]
+[1][2025/03/20 16:26:13][::1][pages][index][Pages]
+[1][2025/03/20 16:27:38][::1][pages][index][Pages]
+[1][2025/03/20 16:28:00][::1][pages][index][Pages]
+[1][2025/03/20 16:28:03][::1][pages][index][Pages]
+[1][2025/03/20 16:28:05][::1][pages][index][Pages]
+[1][2025/03/20 16:29:45][::1][pages][editPage19][Edit Pages]
+[1][2025/03/20 16:30:05][::1][pages][editPage19~contact~Contact Info~    <section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+                <div class="col-lg-8 pt-3 pt-sm-0">
+                    <h2><br></h2><div class="row ">
+                                    </div>
+                                
+                                </div>
+                            </div>
+
+
+            
+        </div>
+    </section>~~~0~][Update Pages]
+[1][2025/03/20 16:30:05][::1][pages][index][Pages]
+[1][2025/03/20 16:31:17][::1][pages][editPage19][Edit Pages]
+[1][2025/03/20 16:31:48][::1][pages][editPage19~contact~Contact Info~    <section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+               
+                          
+
+
+            
+       
+  </div></div></section>~~~0~][Update Pages]
+[1][2025/03/20 16:31:48][::1][pages][index][Pages]
+[1][2025/03/20 16:32:27][::1][pages][editPage19][Edit Pages]
+[1][2025/03/20 16:32:39][::1][pages][editPage19~contact~Contact Info~    <section class="gap">
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+               
+                          
+
+
+            
+       
+  </div></div></section>~~~0~][Update Pages]
+[1][2025/03/20 16:32:39][::1][pages][index][Pages]
+[1][2025/03/20 16:33:26][::1][pages][editPage19][Edit Pages]
+[1][2025/03/20 16:33:45][::1][pages][editPage19~contact~Contact Info~    
+        <div class="container">
+             <div class="row">
+                <div class="col-lg-4">
+                    <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>
+                </div>
+               
+                          
+
+
+            
+       
+  </div></div>~~~0~][Update Pages]
+[1][2025/03/20 16:33:45][::1][pages][index][Pages]
+[1][2025/03/20 16:35:49][::1][pages][editPage19][Edit Pages]
+[1][2025/03/20 16:36:31][::1][pages][editPage19~contact~Contact Info~ <div class="position-relative">
+                        <h2>Contact Info</h2>
+                        <address>
+                            <ul class="contact_details">
+                                <li class="address">#10-2-249/250, GVR's Lakshmi Nivas, Street No. 6, West Marredpally, Secunderabad-500026.</li>
+                                <li class="email">info@gowtham.org, support@gowtham.org</li>
+                                <li class="phone">+91 40 35174598, 35181449, Mobile No : 8096992222</li>
+                            </ul>
+                        </address>
+                    </div>~~~0~][Update Pages]
+[1][2025/03/20 16:36:31][::1][pages][index][Pages]
+[1][2025/03/20 16:40:56][::1][pages][editPage14][Edit Pages]
+[1][2025/03/20 16:41:04][::1][pages][index][Pages]
+[1][2025/03/20 16:50:58][::1][pages][index][Pages]
+[1][2025/03/20 16:51:05][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 16:51:05][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 16:51:25][::1][pages][index][Pages]
+[1][2025/03/20 16:51:46][::1][pages][index][Pages]
+[1][2025/03/20 16:51:53][::1][pages][editPage10][Edit Pages]
+[1][2025/03/20 16:51:57][::1][pages][index][Pages]
+[1][2025/03/20 16:51:59][::1][pages][index][Pages]
+[1][2025/03/20 16:52:03][::1][pages][index][Pages]
+[1][2025/03/20 16:52:07][::1][pages][index][Pages]
+[1][2025/03/20 16:52:34][::1][pages][index][Pages]
+[1][2025/03/20 17:37:56][::1][pages][index][Pages]
+[1][2025/03/20 17:38:09][::1][enquiries][index][Enquiries]
+[1][2025/03/20 17:38:40][::1][enquiries][index][Enquiries]
+[1][2025/03/20 17:38:47][::1][enquiries][index][Enquiries]
+[1][2025/03/20 17:39:08][::1][enquiries][index][Enquiries]
+[1][2025/03/20 17:39:17][::1][pages][index][Pages]
+[1][2025/03/20 17:39:19][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 17:39:19][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 17:39:25][::1][pages][index][Pages]
+[1][2025/03/20 17:40:37][::1][pages][index][Pages]
+[1][2025/03/20 17:40:41][::1][pages][editPage10][Edit Pages]
+[1][2025/03/20 17:40:56][::1][pages][index][Pages]
+[1][2025/03/20 17:41:29][::1][pages][editPage10][Edit Pages]
+[1][2025/03/20 17:43:37][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 17:46:03][::1][pages][editPage10~about~section1~ <section class="breadcrumb_sec story">
+        <div class="container">
+            <div class="row d-flex align-items-center justify-content-center">
+                <div class="col-sm-6 text-center content">
+                    <p><a href="http://localhost/GouthamSchool/index">Home</a> <i class="far fa-circle"></i> About Us</p>
+                    <h2>About Us</h2>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="gap">
+        <div class="container">
+            <div class="row ">
+                
+                <div class="col-lg-7">
+                    <div class="heading two w-100">
+                        <h2 class="about-sec">About GMS</h2>
+                    </div>
+                    <div>
+                        <p style="color: #a13984;"><b>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana.</b></p>
+
+                        <p class="pt-3">GMS has been ranked as one of the largest group in terms of number of schools and students. The academy currently has 60 schools with a combined student population of approximately 45,000+. The founder chairman, Mr. Venkatanarayana is a post graduate in Chemistry from Banaras Hindu University. With a teaching experience of 30 years at various levels, he is at the helm of operations at Gowtham. With his vast experience in primary, high school and junior college segment, he initiated quality education at an affordable price by starting a Junior College in Vijayawada in 1984. With a positive response from the students’ and parents’ community, the group expanded in Hyderabad in 1998 and to other parts of Andhra Pradesh and Telangana. With 60 schools having 45,000 students, Mr. Venkatanarayana has been the crucial member of the growth plan, envisioned.</p>
+                        
+                        
+                    </div>
+                </div>
+                <div class="col-lg-5"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/about_img_4866609541.jpg"><br></div>
+            </div>
+
+
+            <div class="row gap mb-0 pb-0">
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5" style="border-radius: 100px;">
+                        <div>
+                            <h3>Vision</h3>
+                            <p>"Our vision is to create a world where every individual, regardless of their socio-economic background, has equal access to high-quality education. We strive to make education affordable for all, by providing innovative, sustainable, and inclusive learning environments that foster growth, creativity, and success. Our mission is to empower students to reach their full potential and become active, informed, and responsible citizens who contribute to a better future for all."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_951535011.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-12">
+                    <div class="service-two-text w-100 p-lg-5 mb-xl-0" style="border-radius: 100px;">
+                        <div>
+                            <h3>Mission</h3>
+                            <p>Our mission is to provide affordable and accessible education that empowers all students to achieve their goals and realize their full potential. We are committed to creating a supportive and inclusive learning environment that fosters intellectual curiosity, critical thinking, and creativity. Through our innovative programs, experienced faculty, and modern facilities, we aim to equip our students with the knowledge, skills, and values they need to succeed in a rapidly changing world. We believe that education is a fundamental human right, and we strive to make it accessible to everyone, regardless of their financial means."</p>
+                        </div>
+                        <div class="service-text-two d-none d-md-block">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_1507804091.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~about_img.jpg~~~0~about_img.jpg][Update Pages]
+[1][2025/03/20 17:46:03][::1][pages][index][Pages]
+[1][2025/03/20 17:47:57][::1][pages][index][Pages]
+[1][2025/03/20 17:48:00][::1][pages][index][Pages]
+[1][2025/03/20 17:52:27][::1][pages][index][Pages]
+[1][2025/03/20 17:52:30][::1][pages][editPage13][Edit Pages]
+[1][2025/03/20 17:52:50][::1][pages][index][Pages]
+[1][2025/03/20 17:55:06][::1][pages][index][Pages]
+[1][2025/03/20 17:55:08][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 17:55:08][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 17:55:15][::1][pages][index][Pages]
+[1][2025/03/20 17:55:17][::1][pages][index][Pages]
+[1][2025/03/20 17:55:19][::1][pages][editPage10][Edit Pages]
+[1][2025/03/20 18:02:36][::1][pages][index][Pages]
+[1][2025/03/20 18:02:42][::1][pages][index][Pages]
+[1][2025/03/20 18:02:44][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 18:02:44][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 18:02:51][::1][pages][index][Pages]
+[1][2025/03/20 18:03:45][::1][pages][index][Pages]
+[1][2025/03/20 18:03:46][::1][pages][index][Pages]
+[1][2025/03/20 18:03:49][::1][pages][index][Pages]
+[1][2025/03/20 18:03:58][::1][enquiries][index][Enquiries]
+[1][2025/03/20 18:04:06][::1][enquiries][index][Enquiries]
+[1][2025/03/20 18:04:56][::1][pages][index][Pages]
+[1][2025/03/20 18:04:58][::1][pages][index][Pages]
+[1][2025/03/20 18:05:00][::1][pages][editPage10][Edit Pages]
+[1][2025/03/20 18:05:10][::1][pages][index][Pages]
+[1][2025/03/20 18:10:37][::1][pages][index][Pages]
+[1][2025/03/20 18:10:42][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 18:10:43][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 18:11:30][::1][pages][editPage20~home~Home~ <section class="gap">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <figure class="one">
+                            <img alt="img" class="provide-img-one" src="http://localhost/GouthamSchool/uploads/pages/about-1_8984212559.jpg">
+                        </figure>
+                        <figure class="two">
+                            <img alt="img" class="provide-img-two" src="http://localhost/GouthamSchool/uploads/pages/about-2_3780945320.jpg">
+                        </figure>
+                        <figure class="three">
+                            <img alt="img" class="provide-img-three" src="http://localhost/GouthamSchool/uploads/pages/about-3_4375043617.jpg">
+                        </figure>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>Imagine, Invent, create, Explore, Implement and Inspire in GMS</p>
+                        <h2 class="about-sec">EDUCATION THAT SPARKS CHANGESSS </h2>
+                    </div>
+                    <div>
+                        <p>Gowtham Model School (GMS), promoted by Sri M. Venkatanarayana and managed by Sri Gowtham Academy of General &amp; Technical Education, is one of the biggest names in the educational services sector in Andhra Pradesh and Telangana. GMS has been ranked as one of the largest group in terms of number of schools and students.</p>
+                        
+                        <div class="count-style">
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="60"></h2>
+                                    <span>+</span>
+                                </div>
+                                <h3 class="text">Schools</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="45"></h2>
+                                    <span>k</span>
+                                </div>
+                                <h3 class="text">Students</h3>
+                            </div>
+                            <div class="boder"></div>
+                            <div class="count-text mb-0">
+                                <div class="d-flex justify-content-center">
+                                    <h2 class="count" data-number="96"></h2>
+                                    <span>%</span>
+                                </div>
+                                <h3 class="text">Results</h3>
+                            </div>
+                        </div>
+
+
+
+                        <a href="http://localhost/GouthamSchool/pages/pagedetails/about" class="sec-btn">Know More</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            
+            
+            <div class="trainers_training" style="background-image: url(assets/img/trainers_training.png);"><img src="
+
+	http://localhost/GouthamSchool/uploads/pages/unique_img_5728131726.jpg" style="width: 25%;" alt="">
+                <div class="text-sec">
+                    <h5>OUR UNIQUE LEARNING ENVIRONMENT</h5>
+                    <h2>Go to success from strong foundations</h2>
+                    <p>Education plays an important role in our life. It fosters innovative and logical thinking. It helps us to develop our knowledge and skills. It completely changes our mind and personality. It improves our learning process and helps us to make informed decisions. A good education is a must for everyone irrespective of religion, gender, or culture.</p>
+
+                    <p>Trust from parents, commitment from teachers, and energy from students make GMS an ecosystem for inspired learning. Consistency, Congruence, and Commitment create the learning environment in school.</p>
+                    <a href="http://localhost/GouthamSchool/pages/pagedetails/contact" class="sec-btn-green">Visit Now</a>
+                </div>
+            </div>
+        </div>
+    </section>~<section class="gap position-relative">
+        <div class="container">
+            <div class="heading">
+                <h5>The concept of Gowtham Educational is quality education.</h5>
+                <h2 class="pb-70">FACILITIES AT GMS</h2>
+            </div>
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                            <h3>Science Labs</h3>
+                            <p>GMS believes that, students should have sound practical training to substantiate theoretical ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-1_2960203961.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                            <h3>Digital classrooms</h3>
+                            <p>The growth and development of the social structure, the scientific advancements are all the resuls ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-2_1136066714.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                           <h3>Large Sports Campus</h3>
+                            <p>Sports are not an alternative but the most essential aspect of education. It is a lesson on team..</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-3_2122290868.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Modern Library</h3>
+                            <p>At GMS, the library has a very good collection of books on various topics, excellent study materials ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-4_6607767981.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Computer Labs</h3>
+                            <p>The world is shrinking and coming together through technological development made in the field of ...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-5_3863123198.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="service-two-text">
+                        <div>
+                                <h3>Extra Curricular</h3>
+                            <p>Students come to learn but at times they teach us many new things. At GMS, students...</p>
+                        </div>
+                        <div class="service-text-two">
+                            <i><img src="http://localhost/GouthamSchool/uploads/pages/five-elements-icon-6_4171852044.png" alt="service-icon"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="gap" style="background-color: #f3f3f3;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="heading two w-100">
+                        <p>One Step away for bright future for your kid</p>
+                        <h2 class="about-sec pb-0">Visit us today to explore Gowtham Model Schools!</h2>
+                    </div>
+                    <div>
+                        <p>The concept of Gowtham Educational Institutions is quality education at all spheres and preparation of a generation that's confident, courageous and capable of attaining success.</p>
+                        
+                        <a href=" http://localhost/GouthamSchool/pages/pagedetails/contact" class="sec-btn mt-3">Contact Us</a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="provide-img">
+                        <img alt="img" class="provide-img-one" src=" http://localhost/GouthamSchool/uploads/pages/visitsectionimg_5346225632.png">
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </section>~~0~][Update Pages]
+[1][2025/03/20 18:11:30][::1][pages][index][Pages]
+[1][2025/03/20 18:12:13][::1][pages][index][Pages]
+[1][2025/03/20 18:12:32][::1][pages][index][Pages]
+[1][2025/03/20 18:12:35][::1][pages][editPage10][Edit Pages]
+[1][2025/03/20 18:13:59][::1][pages][index][Pages]
+[1][2025/03/20 18:14:01][::1][pages][index][Pages]
+[1][2025/03/20 18:14:03][::1][pages][editPage20][Edit Pages]
+[1][2025/03/20 18:14:04][::1][pages][editPageArray][Edit Pages]
+[1][2025/03/20 18:15:38][::1][pages][index][Pages]
+[1][2025/03/20 18:15:40][::1][pages][index][Pages]
+[1][2025/03/20 18:15:43][::1][pages][editPage10][Edit Pages]
+[1][2025/03/20 18:19:16][::1][enquiries][index][Enquiries]
+[1][2025/03/20 18:19:36][::1][pages][index][Pages]
+[1][2025/03/20 18:19:53][::1][pages][index][Pages]
+[1][2025/03/20 18:20:25][::1][pages][index][Pages]
+[1][2025/03/20 18:21:03][::1][pages][index][Pages]
+[1][2025/03/20 18:21:05][::1][pages][editPage10][Edit Pages]
+[1][2025/03/20 18:21:31][::1][pages][index][Pages]
+[1][2025/03/20 18:26:12][::1][pages][index][Pages]
